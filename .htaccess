@@ -1,0 +1,26 @@
+<IfModule mod_mime.c>
+  AddType application/manifest+json .webmanifest
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "^(index\.html|sw\.js|manifest\.webmanifest)$">
+    Header always set Cache-Control "no-cache, no-store, must-revalidate"
+    Header always set Pragma "no-cache"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_alias.c>
+  RedirectMatch 404 ^/_backup_iching_
+  RedirectMatch 404 ^/_rollback_iching_
+  RedirectMatch 404 ^/_iching_stage_
+  RedirectMatch 404 ^/assets/aaa/realms/
+  RedirectMatch 404 ^/assets/combat/
+  RedirectMatch 404 ^/assets/mutual/
+  RedirectMatch 404 ^/assets/speed/
+  RedirectMatch 404 ^/assets/(bg-game|bg-result|bg-start)\.png$
+  RedirectMatch 404 ^/assets/aaa/(hero-cinematic|reward-burst|training-arena)\.png$
+  RedirectMatch 404 ^/assets/aaa/mutual/(arena-temple|bamboo-scrolls|cinnabar-seal|fx-clear-seal|incense-burner|lantern-|mirror-)
+  RedirectMatch 404 ^/assets/effects/success-glow\.png$
+  RedirectMatch 404 ^/assets/learning/stages/stage-(1|4|5|6)\.png$
+  RedirectMatch 404 ^/assets/reaction/stage-(dual-chase|hexagram-hunt|true-false-snap)\.png$
+</IfModule>

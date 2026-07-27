@@ -1,0 +1,1403 @@
+{
+  "policy": "Only visually reviewed, symbol-free artwork and nature cards may be published. I Ching line symbols are rendered by code.",
+  "published": [
+    {
+      "path": "/assets/aaa/core/academy-mode-loading-portal-v1.webp",
+      "bytes": 98588,
+      "sha256": "016d589621d94d1ee9ea6b90643ee5bb53d5a022a99b459dc51558d9ccf54f57"
+    },
+    {
+      "path": "/assets/aaa/core/core-home-mountain-study-v1.webp",
+      "bytes": 179368,
+      "sha256": "5756e7400297cd840d4fef186edc8f91dae017050e1e6195be3f9ccd28829631"
+    },
+    {
+      "path": "/assets/aaa/core/core-result-clearing-pass-v1.webp",
+      "bytes": 276466,
+      "sha256": "20456d0e882ffd6e03de6be7e6e804661b029a83a99fb0263a79abd9ac902ce3"
+    },
+    {
+      "path": "/assets/aaa/core/fx-answer-contact-correct-v1.webp",
+      "bytes": 12392,
+      "sha256": "bff6ab6ea780a5a50a4f264bf2253c69d767e6801b06fae9fbed2c1599b6763b"
+    },
+    {
+      "path": "/assets/aaa/core/fx-answer-contact-wrong-v1.webp",
+      "bytes": 14218,
+      "sha256": "29a259270a0308cc3abcad31bfff63a7121628c0595ce5dddf6043184d60d8c2"
+    },
+    {
+      "path": "/assets/aaa/core/fx-answer-handoff-awaken-v1.webp",
+      "bytes": 57626,
+      "sha256": "e8f60f22ccdc11e77b7595e11788f2a5ef31824931cd82af7fa7aed271df7974"
+    },
+    {
+      "path": "/assets/aaa/core/fx-answer-handoff-forge-v1.webp",
+      "bytes": 49488,
+      "sha256": "f6995ad5055b491337900fa69c9bb3b4181edaf0f979e72bcd3b3aaf93c1649d"
+    },
+    {
+      "path": "/assets/aaa/core/fx-answer-handoff-oracle-v1.webp",
+      "bytes": 49466,
+      "sha256": "8dfd097a6ac27a9aa5d4d56e941117241bfe1dbf97a5e2c695f7364c06fbfa5f"
+    },
+    {
+      "path": "/assets/aaa/core/fx-answer-handoff-v1.webp",
+      "bytes": 84664,
+      "sha256": "1526fff241606777e08a91b499e5fb5d2cfeb94f0640d1a79017f76152fde2a4"
+    },
+    {
+      "path": "/assets/aaa/core/fx-choice-contact-v1.webp",
+      "bytes": 42606,
+      "sha256": "f80f7014226005cc33aa6217e75aadf5124be471405a585f7d68c514f0609985"
+    },
+    {
+      "path": "/assets/aaa/core/fx-combo-mythic-v1.webp",
+      "bytes": 415362,
+      "sha256": "ad151571e68e07e89655890f22261c7a98c30e1299f74b351a85217ab6d1307b"
+    },
+    {
+      "path": "/assets/aaa/core/fx-combo-overdrive-v1.webp",
+      "bytes": 300660,
+      "sha256": "e0e3af7696b46182129779c2de2873d9070db218379d7c24c5692471f5d61e81"
+    },
+    {
+      "path": "/assets/aaa/core/fx-global-input-contact-v1.webp",
+      "bytes": 124690,
+      "sha256": "df73e6b827cd6858e1c66e082d68d696605d1c504c895686889554d606e023f2"
+    },
+    {
+      "path": "/assets/aaa/core/fx-global-input-soft-v1.webp",
+      "bytes": 16218,
+      "sha256": "d65d123b994fa4ba748d27792a4eba86b0191f91d4b472d5810525f95cdea6e5"
+    },
+    {
+      "path": "/assets/aaa/core/fx-global-input-speed-v1.webp",
+      "bytes": 5440,
+      "sha256": "5fd148a17e232f8416b16382d7012737b61c6527b9156918ffeee06363d41e80"
+    },
+    {
+      "path": "/assets/aaa/core/fx-module-focus-v1.webp",
+      "bytes": 68238,
+      "sha256": "2b8a50aa18dcb65f384d252b85872df40f1221f3df930f52d55de88735e8c007"
+    },
+    {
+      "path": "/assets/aaa/core/fx-scene-flow-sweep-v1.webp",
+      "bytes": 98962,
+      "sha256": "9dd66fbba96f56d493a7761a2959a7cc01584103e99f6af476d7fd63544ce5d2"
+    },
+    {
+      "path": "/assets/aaa/core/fx-semantic-yao-impact-v1.webp",
+      "bytes": 184438,
+      "sha256": "77cc82aaa4d9ed8489764e9b1256dca7a383f8a32b2103c7aeed988e2224b05f"
+    },
+    {
+      "path": "/assets/aaa/core/fx-semantic-yao-perfect-v1.webp",
+      "bytes": 163608,
+      "sha256": "da245ab8c5f49505217ca11ed94b18bf40c5cdeea2097d9b3866536045187800"
+    },
+    {
+      "path": "/assets/aaa/core/fx-semantic-yao-swift-v1.webp",
+      "bytes": 95514,
+      "sha256": "b0a1392480409ccb39e4f992f1f493e999b1d9f990ff8a722d3e44b5170329a3"
+    },
+    {
+      "path": "/assets/aaa/core/fx-tower-card-focus-v1.webp",
+      "bytes": 36484,
+      "sha256": "f9ac44698ac5a66205b50089cdf1267915b9d70976a652cd405ba03b772b7844"
+    },
+    {
+      "path": "/assets/aaa/core/fx-tower-slot-lock-v1.webp",
+      "bytes": 126800,
+      "sha256": "cda64651f3db46ca1eb2f5ecdcc3f0aa87c595955068d1f1684e727d15d76783"
+    },
+    {
+      "path": "/assets/aaa/core/fx-trigram-choice-contact-v1.webp",
+      "bytes": 60398,
+      "sha256": "ebb9f1dcd6f12788c1ad066b583206f57ee514eb0d8bc5401bbb2a7b7484adb5"
+    },
+    {
+      "path": "/assets/aaa/core/fx-trigram-speed-choice-contact-v1.webp",
+      "bytes": 54892,
+      "sha256": "dedd36b190fb18246ce7d14d753d7757535979a62ebe7019649ae7f25eab7c73"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/eight-palaces-academy-bg-v1.webp",
+      "bytes": 277014,
+      "sha256": "b8257f0eda102d904dec8244c1ef41b1b6478c4e33c778b13fc4d7e10499b094"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/eight-palaces-realm-earth-bg-v1.webp",
+      "bytes": 254948,
+      "sha256": "25ede6b684813dcc11cc78d9b9659406f3f34b52d7498c874e2180b31792b348"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/eight-palaces-realm-fire-bg-v1.webp",
+      "bytes": 204220,
+      "sha256": "e7d9527cd74b4505f113973d78f174711828f76531b84afe596c516444faabe9"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/eight-palaces-realm-metal-bg-v1.webp",
+      "bytes": 169458,
+      "sha256": "0ed4afe4ab68cb445187e77fff03169a4a415d16a3569d657c56c7f7688fc4fb"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/eight-palaces-realm-water-bg-v1.webp",
+      "bytes": 263090,
+      "sha256": "f10a81f4d4b03c896ab546c048e426b6f1532992a685561fd33745a31a04f8be"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/eight-palaces-realm-wood-bg-v1.webp",
+      "bytes": 344014,
+      "sha256": "fbed100708fbc7960482b9c7a7d99fb296ddbe3a7efdbfc9ec85fb92ffb0ca38"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/eight-palaces-spirit-sanctum-bg-v1.webp",
+      "bytes": 215988,
+      "sha256": "042b7d3d73840a7fda5d2c52a45aee9079831ba77adf563a4f419faf7b30106e"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/fx-eight-palaces-earth-hit-v1.webp",
+      "bytes": 100096,
+      "sha256": "0f65382d86e136cd4b15d7fe9c2b9de7cc91a1f642f2607a1997be85a1bb927f"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/fx-eight-palaces-fire-hit-v1.webp",
+      "bytes": 87258,
+      "sha256": "e9ac72da5d7cbfa7ee3ca5d9d535b56352590214c6e88e969fbebbb5675ff9ef"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/fx-eight-palaces-metal-hit-v1.webp",
+      "bytes": 83270,
+      "sha256": "a7d480abf8b1ab4cedd7478d23cfba3cb287d0e8553b57ac7a149bff14db0c4d"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/fx-eight-palaces-spirit-pulse-v1.webp",
+      "bytes": 108490,
+      "sha256": "26b6b5806e261d04f9255f57430f0d46b2aaf4ed302f0af643886c7f61f5cd0a"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/fx-eight-palaces-transfer-trail-v1.webp",
+      "bytes": 43348,
+      "sha256": "e6165dd099d53ce449baf861aa2e10f7ac61346032e877f8748e72fc7a19fe5b"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/fx-eight-palaces-water-hit-v1.webp",
+      "bytes": 100918,
+      "sha256": "459817964b2ef30c30264a97ec81a83080b0f0092d551e965e6f6bdd762d4292"
+    },
+    {
+      "path": "/assets/aaa/eight-palaces/fx-eight-palaces-wood-hit-v1.webp",
+      "bytes": 119008,
+      "sha256": "db69c0c4349087bf9d7b096c65d8a3f57e3edee0a29b2156d36a74de7194fc0d"
+    },
+    {
+      "path": "/assets/aaa/global-hud/fx-global-hud-control-contact-v1.webp",
+      "bytes": 2602,
+      "sha256": "73498eec970b9c2ee501634fc994a60dfe5692e0357833a26d33a683f84910ec"
+    },
+    {
+      "path": "/assets/aaa/global-hud/global-hud-brand-plate-v1.webp",
+      "bytes": 8934,
+      "sha256": "3c601e7ff8e2029d02b458049566394604b6f607059056eb4a579a8a8972da13"
+    },
+    {
+      "path": "/assets/aaa/global-hud/global-hud-stat-plate-hover-v2.webp",
+      "bytes": 20630,
+      "sha256": "5299a73d0dd75aa8a1bdc253302d11d478e4db171e0bd36d3a4c1851c3b4650b"
+    },
+    {
+      "path": "/assets/aaa/global-hud/global-hud-stat-plate-normal-v2.webp",
+      "bytes": 18330,
+      "sha256": "eec3c8070b6ba34dac530c2c54f59f9e6a15285e06fcd120777fc938d4d2a81d"
+    },
+    {
+      "path": "/assets/aaa/global-hud/global-hud-stat-plate-pressed-v2.webp",
+      "bytes": 16892,
+      "sha256": "56859b3bf0cea082cd2ee3d6493208f0c4ef18636dc03263057ed8bdd0344c52"
+    },
+    {
+      "path": "/assets/aaa/global-hud/global-hud-stat-plate-v1.webp",
+      "bytes": 2536,
+      "sha256": "a05592b7be8b7478fadd664b393cfb6725695de9e0b57e9acd47ff473fd907a0"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-discipline-hexagram-v1.webp",
+      "bytes": 280146,
+      "sha256": "dcccb26a9beaa492665489a99b2ff945d722298d373da1021ec7b390261c12d2"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-discipline-mutual-v1.webp",
+      "bytes": 257822,
+      "sha256": "e4a94b00060028c96f07954e8087844c38884a5940a138669e749ab40767137e"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-discipline-trigram-v1.webp",
+      "bytes": 191484,
+      "sha256": "68008f1ab6911dd3637fd0da715e36adc683e822897aa4267dfdb810bdccc3c9"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-ghost-pace-break-v1.webp",
+      "bytes": 255826,
+      "sha256": "9ec40894e3e4f25713037e1646a4b04a28b5b52c4ff646b2f830a14e19f5b45f"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-grandmaster-triad-impact-v1.webp",
+      "bytes": 103854,
+      "sha256": "d0271bab15615f41af0d8548819a79dc56959f43cec43806747f1cb05c0d1119"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-mutual-afterimage-echo-v1.webp",
+      "bytes": 373614,
+      "sha256": "5d7189f2e87fd89472ba2066233fde66c3798acf0662e3201d66340aefe9ed70"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-pace-rise-v1.webp",
+      "bytes": 284968,
+      "sha256": "282900b02ae9d63f16ea89a7693c257cd8f39f40419dc7fe7a12ae77c663ceaa"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-personal-gate-break-v1.webp",
+      "bytes": 196510,
+      "sha256": "30ecce9b22dc51fc61f20d225cda0f1bcb25fe64eef74684205d21d78208b6f1"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-triad-resonance-v1.webp",
+      "bytes": 257602,
+      "sha256": "57e1e11042053f2d0863eaf2f0683fa2f357c590a614e64563bc8656fbe12774"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/fx-weakpoint-counter-v1.webp",
+      "bytes": 349344,
+      "sha256": "d10f6358f6e4d4d146064696c8b2a20b21ac8473949151794ce8cf491d8ffdf3"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-01-forge-courtyard-bg-v1.webp",
+      "bytes": 212124,
+      "sha256": "0d81837f3366598213f70ec3fdcd29245a6e35881c2755c5b9fcbe4e99b951b0"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-02-silver-ravine-bg-v1.webp",
+      "bytes": 166182,
+      "sha256": "05f9e37abf9ee902abf40b48af4f350b7fe63cbd95fdf918a62d911c85d2f4fc"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-03-glass-tempest-bg-v1.webp",
+      "bytes": 293534,
+      "sha256": "fe9b7f26582eeebf097359ec8a9f5b9fa32a40dd35fb9d521f5668e83d9edb0d"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-04-void-summit-bg-v1.webp",
+      "bytes": 149884,
+      "sha256": "da62b231b9740d67d785b622d8255557a2710b10d62341c559ac0ea61a6dbe2c"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-05-storm-bamboo-canyon-bg-v1.webp",
+      "bytes": 298298,
+      "sha256": "76f50f5948e8396c38d32f596dde0e5194fdb18075896fec4d1f97f83cc384d8"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-06-obsidian-volcanic-pass-bg-v1.webp",
+      "bytes": 208352,
+      "sha256": "722be7bb0d8aa028a70aa88080a0db418f57dbb8a2cb1cb3402cf399d048ab22"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-07-frozen-cliff-bg-v1.webp",
+      "bytes": 236658,
+      "sha256": "c3e22730ce81d8e993c7f8ab94e0c1196812d6f171b4a87459f6d9e0b742f171"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-08-cloud-summit-bg-v1.webp",
+      "bytes": 201084,
+      "sha256": "1780f5a2ad09c45d7dd7b93eedb71803a7029f509ef015805c7346f89f8d10b1"
+    },
+    {
+      "path": "/assets/aaa/home-actions/fx-home-action-contact-v1.webp",
+      "bytes": 9938,
+      "sha256": "4b57ca052d565343af4e878b04ee091dea365b6819f71f72f582403480c4bd93"
+    },
+    {
+      "path": "/assets/aaa/home-actions/home-action-primary-v1.webp",
+      "bytes": 9944,
+      "sha256": "53ce6133c3f310e5f8fb0a77eaec921f6bc2a20c85d1a32e71fa9bacb8055ddb"
+    },
+    {
+      "path": "/assets/aaa/home-actions/home-action-secondary-v1.webp",
+      "bytes": 8438,
+      "sha256": "67722883681dcc785b65436eb85f9f8963a14d8190470248333154d17ac2e02e"
+    },
+    {
+      "path": "/assets/aaa/home/fx-home-practice-contact-v1.webp",
+      "bytes": 120164,
+      "sha256": "c15d843297526f84eae240704859e26747d67192c1d4347fed210b5b77b0e8fe"
+    },
+    {
+      "path": "/assets/aaa/home/fx-home-recognition-contact-v1.webp",
+      "bytes": 108740,
+      "sha256": "b2933871aa6f5ff113e3d5265645a8f142dd0f886310547223ca297f7ad667f1"
+    },
+    {
+      "path": "/assets/aaa/home/fx-home-speed-contact-v1.webp",
+      "bytes": 137152,
+      "sha256": "30655967389ae3c54d7a84c165717d837b9bfb79c48454a014bf1762ddefeb30"
+    },
+    {
+      "path": "/assets/aaa/home/home-daily-mission-v1.webp",
+      "bytes": 35810,
+      "sha256": "5848859f1e3555cf248f7d112eb0d9e9d58504593b3f0bb714c90ca078413ee3"
+    },
+    {
+      "path": "/assets/aaa/home/home-grandmaster-diagnostic-panel-v1.webp",
+      "bytes": 40122,
+      "sha256": "223dd1b0b63cf49b27555b8ec755fca6b0dd5217687490913e6ab4accfbae402"
+    },
+    {
+      "path": "/assets/aaa/home/home-lane-practice-v1.webp",
+      "bytes": 23380,
+      "sha256": "5199dc061cd40dabc52279c5052ffa9a40a06b43c8914881c872b14d20330680"
+    },
+    {
+      "path": "/assets/aaa/home/home-lane-recognition-v1.webp",
+      "bytes": 20086,
+      "sha256": "c076f459f9e0428daa61decf09aceab0b713ad3e0e3768b63b7e7dd5e4a76794"
+    },
+    {
+      "path": "/assets/aaa/home/home-lane-speed-v1.webp",
+      "bytes": 24090,
+      "sha256": "ec705717df50c6e22a4fea793a40aa26a387a86cf5f301c920055195f1ff9fd3"
+    },
+    {
+      "path": "/assets/aaa/home/home-progress-panel-v1.webp",
+      "bytes": 59894,
+      "sha256": "dcb859e46b6fc3aa12a17a8ef1d2622285b999049fac5a9407118f3e9fc1eae5"
+    },
+    {
+      "path": "/assets/aaa/home/home-route-stage-1-v1.webp",
+      "bytes": 28094,
+      "sha256": "9e5aed0523211de0028d87a5659a28e73b5254fd591ea0e6623cb0d4bc67c76e"
+    },
+    {
+      "path": "/assets/aaa/home/home-route-stage-2-v1.webp",
+      "bytes": 34666,
+      "sha256": "a72dc079494bc25d1470f762737170ef91bb4cb137f91159c9ea6c6be5e69aea"
+    },
+    {
+      "path": "/assets/aaa/home/home-route-stage-3-v1.webp",
+      "bytes": 29120,
+      "sha256": "3f6eac93a2586676ce2a5f9fcaeacbf65db02db9b6f6255f683cffacec05199c"
+    },
+    {
+      "path": "/assets/aaa/home/home-route-stage-4-v1.webp",
+      "bytes": 45928,
+      "sha256": "7fa65cf564db9f7905d67cdbc79ecdf3d4d4b979d75bdbd62dc8826d828d2304"
+    },
+    {
+      "path": "/assets/aaa/home/home-route-stage-5-v1.webp",
+      "bytes": 36908,
+      "sha256": "3bca04a4a8ddd68aeda3e0a2c879eb4f1e1efed0a0f37a8d8aa0ccace0ba8db2"
+    },
+    {
+      "path": "/assets/aaa/home/home-route-stage-6-v1.webp",
+      "bytes": 63296,
+      "sha256": "5d6776d3a6d64d7dd1e86da82eabe022d10efd00b859b42ffa8003e9c16dcfb9"
+    },
+    {
+      "path": "/assets/aaa/mutual/fx-combo-awaken-v2.webp",
+      "bytes": 256348,
+      "sha256": "c85de998e25adf75f0b016d90ca2762dcb44eb89b57278f12c00bbbce4c95aa5"
+    },
+    {
+      "path": "/assets/aaa/mutual/fx-correct-impact-v2.webp",
+      "bytes": 331536,
+      "sha256": "e2e63e19eb07a17bec1e5eca753fa0549e42eaf83944bbfe57025e0a9aeeda74"
+    },
+    {
+      "path": "/assets/aaa/mutual/fx-extract-rays-v2.webp",
+      "bytes": 238238,
+      "sha256": "8b25cd719271cad9a4d7cf2e59e5b1cb1be54cc8c2654ab90b05da1a8e4829cb"
+    },
+    {
+      "path": "/assets/aaa/mutual/fx-wrong-ink-shield-v2.webp",
+      "bytes": 210126,
+      "sha256": "5ac128b556d4dbeff9086ad38a097fa9a3957e32ec8107984faa810ac8654aa6"
+    },
+    {
+      "path": "/assets/aaa/mutual/jade-fragments-v2.webp",
+      "bytes": 122460,
+      "sha256": "e3505695d507483e6585ce061be869d3e6d895af7d601ba05c8981b351261c82"
+    },
+    {
+      "path": "/assets/aaa/native-select-controls/fx-native-select-contact-v1.webp",
+      "bytes": 5724,
+      "sha256": "dd7c2605bc6cf115ca4b380830f1a156ff18d0140190f71dfcf42b8f23ad1574"
+    },
+    {
+      "path": "/assets/aaa/native-select-controls/native-select-focus-v1.webp",
+      "bytes": 52754,
+      "sha256": "e7ff13960d249b685726a2c6cfa8d68a7dede3863ac26fe0e3a56296f8a31919"
+    },
+    {
+      "path": "/assets/aaa/native-select-controls/native-select-plate-v1.webp",
+      "bytes": 44966,
+      "sha256": "6bfe8a7d3f64a34eb6c4b2e78f8f0986346fdce82c4dae6373875e817d0f893f"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/fx-reaction-hub-classic-contact-v1.webp",
+      "bytes": 73992,
+      "sha256": "89d63afe9a3acfc5ae0593095f26c4e99818b7e75e3224fc1d7080c79e6db00b"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/fx-reaction-hub-dual-contact-v1.webp",
+      "bytes": 53606,
+      "sha256": "ba3919332751c29d600f28677cc9c1559825edb361bb5d8fd8a1c8a23c447df3"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/fx-reaction-hub-grandmaster-contact-v1.webp",
+      "bytes": 35650,
+      "sha256": "758357bf63ae037dcde5f84a0b382554309df40cafc4060f2097400a2925ffa7"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/fx-reaction-hub-hunt-contact-v1.webp",
+      "bytes": 25924,
+      "sha256": "6a87335444c0d432c5fe1676303e8969f0922f128db2435d95ad1b23bbb130d7"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/fx-reaction-hub-instant-contact-v1.webp",
+      "bytes": 117842,
+      "sha256": "986e91526c7b738a1653d9047e3a7f72dcede57bf663dc0ac8fecf71e838f12f"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/fx-reaction-hub-mutual-contact-v1.webp",
+      "bytes": 70690,
+      "sha256": "154dee003333c1fb99e1bd91371858b7677e2b8ed3791cf2236aef8455f56977"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/fx-reaction-hub-snap-contact-v1.webp",
+      "bytes": 116112,
+      "sha256": "8142d474f39c9a7b5b737071aa30f0c9f7c3e466e787880c9d08158f61ccc56d"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/reaction-hub-classic-surface-v1.webp",
+      "bytes": 42620,
+      "sha256": "520af07577934f46681ffa546486c397d80122ae9ddb69d4c5dbc57c0179388a"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/reaction-hub-dual-surface-v1.webp",
+      "bytes": 33718,
+      "sha256": "14cdf94c8a107eb0b234075fa28089d1e3536bfc822152a55bd9fbd669ca44d1"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/reaction-hub-grandmaster-surface-v1.webp",
+      "bytes": 40584,
+      "sha256": "edff39859b5226996f12498245c5d51c06f7bffe117f61dd1e4454f3aca221a0"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/reaction-hub-hunt-surface-v1.webp",
+      "bytes": 32952,
+      "sha256": "971178dc590d454a99d4b29f0f6433d6a1c3eafedc65bad8ffeab47971ca5ae8"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/reaction-hub-instant-surface-v1.webp",
+      "bytes": 36394,
+      "sha256": "71d044234511cd5c5e0e88961542b704f58c200588d5bf0a7d5c1391ef9ddd91"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/reaction-hub-mutual-surface-v1.webp",
+      "bytes": 33504,
+      "sha256": "f1d38a22823aea11a4107ca810dee6d3582d777bcbe2fd7d99d31ae1bfaf341e"
+    },
+    {
+      "path": "/assets/aaa/reaction-hub/reaction-hub-snap-surface-v1.webp",
+      "bytes": 26066,
+      "sha256": "4a29d258d97b2f6ed79f6c050d0414a0b3badd21c73844d6611530541f880d71"
+    },
+    {
+      "path": "/assets/aaa/reaction-hud/reaction-hud-chassis-v1.webp",
+      "bytes": 30018,
+      "sha256": "a7096239f18de5747721d8f570f35a0cc7315dc94295db8ef064e06f8472097b"
+    },
+    {
+      "path": "/assets/aaa/reaction-results/reaction-result-retry-surface-v1.webp",
+      "bytes": 60182,
+      "sha256": "d2f9351b6eb07eb177d0cb75cc6f1e9c75cc3379690f04add6c806afcb601820"
+    },
+    {
+      "path": "/assets/aaa/reaction-results/reaction-result-success-surface-v1.webp",
+      "bytes": 95662,
+      "sha256": "58816e9dd7715943739f6904427f9275a02e18804ab80c02e48fd44044141038"
+    },
+    {
+      "path": "/assets/aaa/reaction/fx-classic-omniform-impact-v1.webp",
+      "bytes": 128880,
+      "sha256": "e5f56574d35c23b1ade079ba8f2dfddb3bcc2de38272864f882e28cef1c790e8"
+    },
+    {
+      "path": "/assets/aaa/reaction/fx-dual-afterimage-pursuit-v1.webp",
+      "bytes": 175186,
+      "sha256": "c8d9e7c56384801aab9a5c0ca133ce5c69f846156d91b4e0a05d14764b560a13"
+    },
+    {
+      "path": "/assets/aaa/reaction/fx-hunt-lock-frame-v2.webp",
+      "bytes": 190494,
+      "sha256": "fc858ad30450ed20d7427f868c77926bef03d6f650ef9c74d9895115d0c3bcae"
+    },
+    {
+      "path": "/assets/aaa/reaction/fx-snap-verdict-cleave-v2.webp",
+      "bytes": 134080,
+      "sha256": "649ca69eb1f82f8e134d902631262c30649971103bec57a03b865c153a7e7a72"
+    },
+    {
+      "path": "/assets/aaa/recognition-tower/recognition-realm-01-sunrise-observatory-bg-v1.webp",
+      "bytes": 188652,
+      "sha256": "d8fc5e6ffea94f7a2aad46f4bf818ad7017c853f7ad32833f04866b223f8350e"
+    },
+    {
+      "path": "/assets/aaa/recognition-tower/recognition-realm-02-prism-storm-gallery-bg-v1.webp",
+      "bytes": 199306,
+      "sha256": "cdfa6d3cbcab849cc8b3acd60bcc49398ce0c9126cd92c4d48280b3319123c85"
+    },
+    {
+      "path": "/assets/aaa/recognition-tower/recognition-realm-03-moonlit-citadel-bg-v1.webp",
+      "bytes": 162892,
+      "sha256": "85ca8907a9fcda9d6b8dad077549059a35defae27dabeb24acd3d7343012b103"
+    },
+    {
+      "path": "/assets/aaa/recognition/fx-instant-retinal-echo-v1.webp",
+      "bytes": 282028,
+      "sha256": "44270b6e170164b26a8dcb948ce26ef9306aec11549cbc05d63acd2b82258679"
+    },
+    {
+      "path": "/assets/aaa/recognition/fx-instant-verdict-burst-v1.webp",
+      "bytes": 135354,
+      "sha256": "f56754ba7180bf849e24b392492caac42a4aafb81aaccdda2f10ab0369c11204"
+    },
+    {
+      "path": "/assets/aaa/result-actions/fx-result-action-contact-v1.webp",
+      "bytes": 5608,
+      "sha256": "12d18630481a93d820eef0fcf15bab5645862d80cd513ffbfa7bde23ff9b8d9b"
+    },
+    {
+      "path": "/assets/aaa/result-actions/result-action-retry-v1.webp",
+      "bytes": 22762,
+      "sha256": "dd045748124f25b1338e93d8180cf6a2c97d68b204ec4a8de5cba34c91b364e6"
+    },
+    {
+      "path": "/assets/aaa/result-actions/result-action-secondary-v1.webp",
+      "bytes": 10964,
+      "sha256": "ecb250a986a3a8b8d5320ff6268de0c4427780de66bab81f167b86c294816c37"
+    },
+    {
+      "path": "/assets/aaa/result-actions/result-action-success-v1.webp",
+      "bytes": 23586,
+      "sha256": "20e321dfd9b6d69b84546d44059ac160b675f9f88ab509fcd79ceccefef4eaff"
+    },
+    {
+      "path": "/assets/aaa/selector-controls/fx-selector-contact-v1.webp",
+      "bytes": 1686,
+      "sha256": "0f964135e99c1397db3b1a04702fd731d7ebff628149fdc0299ebfa7981f30b3"
+    },
+    {
+      "path": "/assets/aaa/selector-controls/selector-option-active-v1.webp",
+      "bytes": 19648,
+      "sha256": "a63368dd37e41a226125a65de79de6433311d1cf0039a5a2f4352245253f037f"
+    },
+    {
+      "path": "/assets/aaa/selector-controls/selector-option-v1.webp",
+      "bytes": 15284,
+      "sha256": "a6d7a7fe11ed83703f06f2d74366c05bbcf8b4a3c98279acf82a7061e8651cc4"
+    },
+    {
+      "path": "/assets/aaa/selector-controls/selector-rail-v1.webp",
+      "bytes": 41168,
+      "sha256": "406762b21eab7a622a8b26819f840ec06edbef5f902e5d15395a0195b1d185ae"
+    },
+    {
+      "path": "/assets/aaa/speed-tower/tower-realm-01-dawn-academy-bg-v1.webp",
+      "bytes": 370924,
+      "sha256": "84cb6dda1d9b53528dafd59bf267d1d1491c40040501706b2c122ca80a786b94"
+    },
+    {
+      "path": "/assets/aaa/speed-tower/tower-realm-02-thunder-forge-bg-v1.webp",
+      "bytes": 344272,
+      "sha256": "9ca736e1ea4a51b7f402435ad17f28c7136dd1baae606a8a13446b2e69e16a40"
+    },
+    {
+      "path": "/assets/aaa/speed-tower/tower-realm-03-cloud-citadel-bg-v1.webp",
+      "bytes": 312948,
+      "sha256": "2874f9aa71b6c346562adf7fda3de192cbb33cc9fdf0bc146e3d2303b62b4160"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/fx-stage-awaken-hit-v1.webp",
+      "bytes": 82768,
+      "sha256": "b45c8c571eeb068fbecf43574c1a02fb037776a6949109dd41219cffe98380c3"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/fx-stage-break-array-hit-v1.webp",
+      "bytes": 77092,
+      "sha256": "ae517c27c33c3a5875c9991926c368aa5df8c97f65eb97f123194648581d7f14"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/fx-stage-forge-hit-v1.webp",
+      "bytes": 70762,
+      "sha256": "42b22e41ee059389244599ce03bb22dd2ee92add7a5f3ad2d2384ba8b52c2b22"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/fx-stage-lockon-hit-v1.webp",
+      "bytes": 57756,
+      "sha256": "3e8c8b3d1748bb5fbf649c0f8fa5ea32f0ba13341d63fa772ede1b4a164ae80f"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/fx-stage-oracle-hit-v1.webp",
+      "bytes": 74290,
+      "sha256": "decdc63f0a82c293e392ba2a17ae71ab9cf348fa9be85a9263bd9ff2d76e22b9"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/fx-stage-trial-hit-v1.webp",
+      "bytes": 88920,
+      "sha256": "b0297da8462b106125a08e5e9b33a6e131fb7b8c31be3bdca52e1700eac96586"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/stage-awaken-hud-v1.webp",
+      "bytes": 30172,
+      "sha256": "e9a853144e12f540bb91bdc987f689af81ebb6080fae0d24adf29cb04394e295"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/stage-break-array-hud-v1.webp",
+      "bytes": 30912,
+      "sha256": "b67766679aaa43fdab4f72cce42c9a14246b6d17d255d4202a726570296acb85"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/stage-forge-hud-v1.webp",
+      "bytes": 35022,
+      "sha256": "76d81ecec8f31518e42df7b9085eacae5c3c7e11f3a449583e872c8a030cb526"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/stage-lockon-hud-v1.webp",
+      "bytes": 27488,
+      "sha256": "4ad8a48cf3907d2e7c64aab10033e46965a9acd60a964174e97e7de3e9363a74"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/stage-oracle-hud-v1.webp",
+      "bytes": 28974,
+      "sha256": "d5e0e714a1ebeff90fceec9e9be73228be2831a5bd4e1d3d77666d564a634c06"
+    },
+    {
+      "path": "/assets/aaa/stage-feedback/stage-trial-hud-v1.webp",
+      "bytes": 31554,
+      "sha256": "34862cd4f5697e2cb28ed6edcb3303989a42f7c4b19ffbb947242c48cb0b2582"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/fx-wrong-stage-awaken-block-v1.webp",
+      "bytes": 85976,
+      "sha256": "879c503056afbbe82470c434a39d0069bf10c7e742c417e28b7aaef002a6079f"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/fx-wrong-stage-break-array-block-v1.webp",
+      "bytes": 83652,
+      "sha256": "e49e37383b3f435dbdf50d6b367c2f8b8d649d3acb5ca8ab9f6f036eb8d5db70"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/fx-wrong-stage-forge-block-v1.webp",
+      "bytes": 84300,
+      "sha256": "a970d8861bdd9d6d300259196783f636d802cfd9e006b202404325f8b3aa63ab"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/fx-wrong-stage-lockon-block-v1.webp",
+      "bytes": 96994,
+      "sha256": "744f17a76daaab0ffe47bce50636516c58d324a40d99ad3bc5346856c2132365"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/fx-wrong-stage-oracle-block-v1.webp",
+      "bytes": 79148,
+      "sha256": "61698681c6a789dc9f2779281bb3e3c9e98bf575caaac7d8c6e6dedbdead74d3"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/fx-wrong-stage-trial-block-v1.webp",
+      "bytes": 107766,
+      "sha256": "62fdd3f7fe4124f64c510ecf99f246d757207a28a42ffcd58915e83224168b69"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/wrong-stage-awaken-surface-v1.webp",
+      "bytes": 39992,
+      "sha256": "1eff125e7c1b9dea1650efda39e476b0363daedffefd57c7afe41870e543ea6f"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/wrong-stage-break-array-surface-v1.webp",
+      "bytes": 56516,
+      "sha256": "f9ede14e4bbe56db3694af253799f969107504ff763f7407dd9acfa5e78c455b"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/wrong-stage-forge-surface-v1.webp",
+      "bytes": 40520,
+      "sha256": "6f455d429d123acc81219f16b8954fd1cc9e87de535f5a2fdb1c700b53bf1db9"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/wrong-stage-lockon-surface-v1.webp",
+      "bytes": 38776,
+      "sha256": "db513f65abd103ae3cb53f3a824a56a538740ea2286e4c1853a791b0dc309118"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/wrong-stage-oracle-surface-v1.webp",
+      "bytes": 36288,
+      "sha256": "b4ff0a9167e983515ba7cd0f081591778aa9068f36e6c84b1528d4cad20495ca"
+    },
+    {
+      "path": "/assets/aaa/stage-wrong-feedback/wrong-stage-trial-surface-v1.webp",
+      "bytes": 37954,
+      "sha256": "dcf4886209a1c761ec6a4a9f971b157df2a17d06cc131c14a1113b4773137ec1"
+    },
+    {
+      "path": "/assets/aaa/taiji/fx-taiji-array-convergence-v1.webp",
+      "bytes": 361814,
+      "sha256": "e2068d2b59349fdb28642f7d50d749605c4c681bdaf7436231d74286b0e461af"
+    },
+    {
+      "path": "/assets/aaa/taiji/taiji-orbit-courtyard-v1.webp",
+      "bytes": 304604,
+      "sha256": "934d5f51705ba031b91ce984d9570fab40ad33dfa947d932338c8dee9f4875ed"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/fx-gameplay-action-control-contact-v1.webp",
+      "bytes": 41478,
+      "sha256": "7b73fb54ef8a35391b242c058fa455a800a3882051e390b8c3fd9af55507d6d2"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/fx-gameplay-choice-a-contact-v1.webp",
+      "bytes": 40298,
+      "sha256": "aa5d3602d18ef591d6eaa473dea2d2d89a3846c5614d80f5aa1b0f56e2123851"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/fx-gameplay-choice-b-contact-v1.webp",
+      "bytes": 62482,
+      "sha256": "c76cd0bb14810978157e593629922e1fb0cd4afcefc27150ed05d0ce47ba4d48"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/fx-gameplay-choice-c-contact-v1.webp",
+      "bytes": 48474,
+      "sha256": "814757853d8b9abc38d30074edf5d11b443dd66de6cd8a72c1897685ccf7bb5d"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/fx-gameplay-choice-d-contact-v1.webp",
+      "bytes": 44500,
+      "sha256": "ad4ff171aa4f3875731584f057484d86292b4fe814723a9994387ed5e44bb165"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/fx-gameplay-lower-slot-contact-v1.webp",
+      "bytes": 38994,
+      "sha256": "ce8b2b4d5236c0866cec80b85fead0febf7da17bf7e5cd51f7648f1a7e632e73"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/fx-gameplay-question-awaken-v1.webp",
+      "bytes": 33346,
+      "sha256": "126f2a20b0f15b065f63ad4db20dbfa169c38d10faf643c104b25cc1b82e18fb"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/fx-gameplay-upper-slot-contact-v1.webp",
+      "bytes": 36792,
+      "sha256": "cdcbbe4731c0cbca88c454aa20d78fd568421f8844ea3b73d2b2711f278939fd"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/gameplay-action-control-v1.webp",
+      "bytes": 23590,
+      "sha256": "162f80c80de4b3d75d940e5c1ee3595cc2effa49f149d7d8b028779f167a7926"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/gameplay-choice-a-v1.webp",
+      "bytes": 26762,
+      "sha256": "d7f9ad5ea7d218ec3eeefc3f16c56fec34176b471e4078db285ed23f9fc59b00"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/gameplay-choice-b-v1.webp",
+      "bytes": 42618,
+      "sha256": "6b98079cca911a5a22f78a70d85491634695866a5b72637a53ecd1255bf8c3f3"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/gameplay-choice-c-v1.webp",
+      "bytes": 34060,
+      "sha256": "57697800022c470153aafe6d708455e08df4199b6b2a6593ba4885f9ddfcaa97"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/gameplay-choice-d-v1.webp",
+      "bytes": 23466,
+      "sha256": "8fddc0b11c0bd1f3785abb089842336aa77d18b082fed6b34e86b34a688ca273"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/gameplay-lower-slot-v1.webp",
+      "bytes": 33134,
+      "sha256": "b414f11a72114605b618988b5400569149bfaf03ac3c45504d32ddd821384a3e"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/gameplay-question-panel-v1.webp",
+      "bytes": 30692,
+      "sha256": "ef1a12c4b30dcfc2b1728112eb7dcbe9d1ea8494d559ea012894a412de0bb01c"
+    },
+    {
+      "path": "/assets/aaa/training-gameplay/gameplay-upper-slot-v1.webp",
+      "bytes": 25186,
+      "sha256": "eb0401aeb88986b143ad0269a75902ae7e3e2860ff5ac04671428e9336f9cb42"
+    },
+    {
+      "path": "/assets/aaa/training-modes/fx-mode-card-build-hexagram-contact-v1.webp",
+      "bytes": 56988,
+      "sha256": "fc13c3a227d94a10abef79517654a950a402bef0d0c28d6dd45a84ce81519928"
+    },
+    {
+      "path": "/assets/aaa/training-modes/fx-mode-card-clue-name-contact-v1.webp",
+      "bytes": 41188,
+      "sha256": "bc849381c8201dfa7be7ad7214f8ca749aee2c77dcd012c1f065f553c6202d75"
+    },
+    {
+      "path": "/assets/aaa/training-modes/fx-mode-card-missing-lower-contact-v1.webp",
+      "bytes": 54400,
+      "sha256": "83db5b51e5e63ed5d984b3a3e17d8e39ae410ff498caa6225005a74696ad4eb6"
+    },
+    {
+      "path": "/assets/aaa/training-modes/fx-mode-card-missing-upper-contact-v1.webp",
+      "bytes": 51384,
+      "sha256": "08ef834710b59b1056b838621955c57311b2b5e9eb379687ada88ae0f42b1e57"
+    },
+    {
+      "path": "/assets/aaa/training-modes/fx-mode-card-mixed-review-contact-v1.webp",
+      "bytes": 56350,
+      "sha256": "454b13cb3f9fa36d3e00d07e991e818f042dd1b0d532a861707740049b619fb0"
+    },
+    {
+      "path": "/assets/aaa/training-modes/fx-mode-card-symbol-name-contact-v1.webp",
+      "bytes": 53418,
+      "sha256": "0c61c7f1ed7e29509e4c46e7ded621cf6814dd6b785c10c5751b0886a9478484"
+    },
+    {
+      "path": "/assets/aaa/training-modes/fx-mode-card-trigram-image-contact-v1.webp",
+      "bytes": 49520,
+      "sha256": "c48926eea4d3a0c12b483e7ddac0bf965fe4274bcfb64e2ce95f53fc6bbe8093"
+    },
+    {
+      "path": "/assets/aaa/training-modes/fx-mode-card-trigram-nature-contact-v1.webp",
+      "bytes": 58266,
+      "sha256": "19091e751d6d8a231ef246da389f6af99f9d9852396eaf280550143bf4ca87bc"
+    },
+    {
+      "path": "/assets/aaa/training-modes/mode-card-build-hexagram-v1.webp",
+      "bytes": 46774,
+      "sha256": "c6834c36ce561b0fb28ca18fc7d6ed3e7ac3cab8c3b5364e190d78da47dfb19f"
+    },
+    {
+      "path": "/assets/aaa/training-modes/mode-card-clue-name-v1.webp",
+      "bytes": 56862,
+      "sha256": "c632bf1d0759c7393a46acae04628cea301749ab4b68cb3b812ce7c11febe245"
+    },
+    {
+      "path": "/assets/aaa/training-modes/mode-card-missing-lower-v1.webp",
+      "bytes": 27922,
+      "sha256": "16dc1721a24a3b6e5d60991e65fedac5dac079e9b127a2584ed0e1805d17d000"
+    },
+    {
+      "path": "/assets/aaa/training-modes/mode-card-missing-upper-v1.webp",
+      "bytes": 26776,
+      "sha256": "3270f23d3ab7ef9faf3f6120ef77d4b5d2d3c20e338614778f136d1bb4cc7f89"
+    },
+    {
+      "path": "/assets/aaa/training-modes/mode-card-mixed-review-v1.webp",
+      "bytes": 41416,
+      "sha256": "300108cc01ff206e084c4b4afabd24de16ed19c53706bc7253583c67ce780be6"
+    },
+    {
+      "path": "/assets/aaa/training-modes/mode-card-symbol-name-v1.webp",
+      "bytes": 49974,
+      "sha256": "bff9a829f2f600d57adb8aadfa077dd512c694600c3797cc5b10f467dd49ef39"
+    },
+    {
+      "path": "/assets/aaa/training-modes/mode-card-trigram-image-v1.webp",
+      "bytes": 48512,
+      "sha256": "f7b5baa5b031c1b70659a7efa85a4fdd69b43d19afca00d26ea909285ccaf4cd"
+    },
+    {
+      "path": "/assets/aaa/training-modes/mode-card-trigram-nature-v1.webp",
+      "bytes": 39766,
+      "sha256": "73ffd82b589b135ec57573961945aab8b6f0f0e0a26ea4fc35e8e90fefbe037e"
+    },
+    {
+      "path": "/assets/aaa/utility-actions/fx-utility-action-icon-contact-v1.webp",
+      "bytes": 1436,
+      "sha256": "1216f6758129a873f0672d2ff1dbedcaa531fa6c51253ebca8dd1bf22bed8bcc"
+    },
+    {
+      "path": "/assets/aaa/utility-actions/fx-utility-action-wide-contact-v1.webp",
+      "bytes": 1918,
+      "sha256": "d589aa07dcfc866bf48474375330b0406108566745f37829e4ba2aa76351eb5c"
+    },
+    {
+      "path": "/assets/aaa/utility-actions/utility-action-icon-plate-v1.webp",
+      "bytes": 7582,
+      "sha256": "13b5aeb9fe2267c52873991f92daf1aade795abffd53ebc8a4f62584aa5bea83"
+    },
+    {
+      "path": "/assets/aaa/utility-actions/utility-action-wide-plate-v1.webp",
+      "bytes": 12484,
+      "sha256": "a7b0be86b01c9401f974089c11e316cbc1357c248ea1d7199cb0e9369fa78ce2"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-bottom-navigation-states-v1.webp",
+      "bytes": 60398,
+      "sha256": "ff9035261a497876073c36a6921da3fbb759fad2fb74a88f88b7b2cf2fbb9477"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-central-navigation-medallion-v1.webp",
+      "bytes": 72422,
+      "sha256": "8a610d1cc534995a4787f32446d8be33072ec284654a4f9ab019e7ba40f833ad"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-command-panel-v1.webp",
+      "bytes": 58890,
+      "sha256": "e9b6f81218f829a23c49f060742a8daea68c961744b01dcf4548cd4f1e7006aa"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-daily-panel-v1.webp",
+      "bytes": 37156,
+      "sha256": "3915f64277c67acba6141ce04c01c6a037d5c620bb5457710da6a42483391c04"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-daily-task-states-v1.webp",
+      "bytes": 27718,
+      "sha256": "6ce29ae8b30a9a75c8d7f8e1da29d25bb4777b9791122ec0ea5d9a59562aa8fa"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-gold-ink-title-swash-v1.webp",
+      "bytes": 185072,
+      "sha256": "d57ce753245c358d53bbeaafb7c028fb5a3f742e27fb7cc860d1d9bebc8977ed"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-info-action-states-v1.webp",
+      "bytes": 54896,
+      "sha256": "2f6e1e812f2b2a43f81b44dadb9d78f5b81d7ddaab4d0a7580055772b38faa52"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-info-quote-panel-v1.webp",
+      "bytes": 18640,
+      "sha256": "405732ccebce99e83a314db232f3c1e789872527b442dc56b11119d3ba4819d2"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-info-reward-panel-v1.webp",
+      "bytes": 20604,
+      "sha256": "2697735a08e4d84d72a004ddbdf2d639d9b44548bf52f0111fef95dff3b045d8"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-info-score-panel-v1.webp",
+      "bytes": 32684,
+      "sha256": "6d631f50768b0550e74839e32845c92d20118779de7d0b719ef3171de9ffac9e"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-info-study-panel-v1.webp",
+      "bytes": 14908,
+      "sha256": "fe2631027a6d68c8d00cf7a227a08215c9a427f1db9ae42d8ead4be461fcb82d"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-leaderboard-panel-v1.webp",
+      "bytes": 44624,
+      "sha256": "4d5a138124f0f302ae60aa7bfcc7ece02a5e0e7d83180c57caf24b7147ce1090"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-leaderboard-tab-states-v1.webp",
+      "bytes": 33256,
+      "sha256": "c1b221b62eb32a6a6ca11fc6f1cbf9a694e347fd2c7ed3c76d6ea44ab14c41bb"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-ornamental-overlay-v1.webp",
+      "bytes": 306248,
+      "sha256": "8965ea6bc6ab24f8685119615b76f002cf610eb58d0aaeb8bacf66ea19d726d0"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-palace-bg-v1.webp",
+      "bytes": 441612,
+      "sha256": "bcd30e3c7ce0d3bc3f96c6b6e627c6e5089572fd64c78f924462bd5c9c8c9236"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-player-profile-frame-v1.webp",
+      "bytes": 27488,
+      "sha256": "fef16273e5cb7cc0e889ba3b9f87724e2693176e122acb3f8b18c41ad3952354"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-primary-button-states-v2.webp",
+      "bytes": 58686,
+      "sha256": "e6be11d3d60cd6e9db16edd8438f3957a1cfc1d499eb67660fb41a2572ab2ba8"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-top-navigation-icons-v1.webp",
+      "bytes": 98552,
+      "sha256": "87eee231d08fa1d2f60f2a773e393d9c736fd95ab3c342472b192f7a310fa472"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-top-navigation-states-v1.webp",
+      "bytes": 131270,
+      "sha256": "0efd19d75a000660b492702c8ce0eb1b267be0d43e6d001cb08389b266d7cbe7"
+    },
+    {
+      "path": "/assets/iching/academy-home/feature-battle-v1.webp",
+      "bytes": 56108,
+      "sha256": "8b0bd5a8dfcc3616e65a329359116628dfed6bdf260a579ce6765e570780ba61"
+    },
+    {
+      "path": "/assets/iching/academy-home/feature-study-v1.webp",
+      "bytes": 99642,
+      "sha256": "b73fbe3d92e2c1065630b65a86af677e5615ba2221bc4b8da1889fa5324f2d5a"
+    },
+    {
+      "path": "/assets/iching/academy-home/feature-training-v1.webp",
+      "bytes": 68104,
+      "sha256": "bd637f810318caebd1673db498fb4a0535b96e23ff61c3ec2f03f0c3a6551314"
+    },
+    {
+      "path": "/assets/iching/academy-home/feature-trial-v1.webp",
+      "bytes": 74910,
+      "sha256": "0b04c2177180d4e2f785f54d3a046a2209887cf7e9853901618ccec4023a5d13"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-command-action-contact-v1.webp",
+      "bytes": 35348,
+      "sha256": "cd056047b1e3de715e5d3942b6830d6ec33a877e5282e18cf4ef360802a86c24"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-command-close-contact-v1.webp",
+      "bytes": 44478,
+      "sha256": "17d7431e1ef9c4b5949a2252523310f579c9264d64d84d90b1e18a6234de8d83"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-daily-task-contact-v1.webp",
+      "bytes": 7180,
+      "sha256": "688d8eea7ff18708a008958031bfa99a56c4ba626723f1cbb47d933ce42e52ef"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-info-action-contact-v1.webp",
+      "bytes": 3296,
+      "sha256": "13381e735863380ac6212dbcbcb3232ec537208d4daa6ff68fae1abfb606eb92"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-leaderboard-tab-contact-v1.webp",
+      "bytes": 20384,
+      "sha256": "ac64d0287531a433187c42319a8b54e740408ea829a476943dff5872ca3b19b8"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-medallion-contact-v1.webp",
+      "bytes": 123180,
+      "sha256": "3a381063a6ead1399852f1bbbeeeba53400c61ffa1f20a8cfe46c4f4e406eccb"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-navigation-contact-v1.webp",
+      "bytes": 26358,
+      "sha256": "1148731b3baf06527fef6e98aa8e784c00015a77684ce45831d942b20e546d55"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-primary-action-contact-v1.webp",
+      "bytes": 50170,
+      "sha256": "a537c1cd596fa0534394ca1207a39992ab5f88b4b3ab5af4aac42a5293fb463c"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-profile-contact-v1.webp",
+      "bytes": 53028,
+      "sha256": "b528226e7aad2113c6c3140a9dabb09c34fdc25c62a024b74e7a94817040896a"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-battle-contact-v1.webp",
+      "bytes": 17976,
+      "sha256": "864d81e5c6569ac7c11921af499f5fb2990259c2e03033a2982b4a295589d548"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-command-panel-open-v1.webp",
+      "bytes": 40736,
+      "sha256": "e26f91e119f27667a469c1b5bfaed6d90ab3d9c396a2b36a70bf4d515250f87e"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-study-contact-v1.webp",
+      "bytes": 16242,
+      "sha256": "7bd9aa7a404af801cc825d92e2fdb7f227e741d0a4facf1660ab7eceab2700ad"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-training-contact-v1.webp",
+      "bytes": 19618,
+      "sha256": "babd54707e1db6ac53f62de4cad62fa7d0fe7fe69ec7d95baf8a129ab5296a51"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-trial-contact-v1.webp",
+      "bytes": 15634,
+      "sha256": "339d59ca630fa588e34572ef26f260c4dbf2ee612df9ef643811f71226c8d3ce"
+    },
+    {
+      "path": "/assets/iching/academy-home/player-scholar-v1.webp",
+      "bytes": 17350,
+      "sha256": "51e241561bd93b91a0a07d3487b81bb7b88073222b6c434f3a9b5ab32bbfbf14"
+    },
+    {
+      "path": "/assets/learning/badges/review-book.png",
+      "bytes": 496358,
+      "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
+    },
+    {
+      "path": "/assets/learning/badges/star.png",
+      "bytes": 468700,
+      "sha256": "bb0c177e40d70a20c5f7dd741aa65820029a8e5667a389d79e3d9ffee8b1befa"
+    },
+    {
+      "path": "/assets/learning/modes/mode-clue.png",
+      "bytes": 455790,
+      "sha256": "fecda32162439f39aa4be3214ca19f30135678ecfa9818e6b7e9926f3d11822c"
+    },
+    {
+      "path": "/assets/learning/modes/mode-trigram-nature.png",
+      "bytes": 463070,
+      "sha256": "709ba08482bc8f48ad625f6523bf0f5a5ea42dabaf9fee1f66b3b9f679ca8ed1"
+    },
+    {
+      "path": "/assets/learning/natures/dui.png",
+      "bytes": 481803,
+      "sha256": "43614af58b4c1c0965b8b58b71493b364450db307067f2ccb95652e70d1f6964"
+    },
+    {
+      "path": "/assets/learning/natures/gen.png",
+      "bytes": 479856,
+      "sha256": "5ffc36cfdc344fa4a85ff6289dcb2239124f6376d51fde6e7aaf30e92ac8d1d9"
+    },
+    {
+      "path": "/assets/learning/natures/kan.png",
+      "bytes": 511275,
+      "sha256": "aff9dbf972eafa02ba086ee77773d310c4b056e03271f179e3b228bbcadf3499"
+    },
+    {
+      "path": "/assets/learning/natures/kun.png",
+      "bytes": 478444,
+      "sha256": "8549160a6562f8838d9e6f6ad6c7da152a789f7264664d6ee65eb58bd4f5b857"
+    },
+    {
+      "path": "/assets/learning/natures/li.png",
+      "bytes": 455129,
+      "sha256": "2819206f8710c4ff16da54c3209b0a386548cfa245539bf195f57e7894fdef03"
+    },
+    {
+      "path": "/assets/learning/natures/qian.png",
+      "bytes": 416836,
+      "sha256": "7ae2d55296d21af6093652f991de29c8144ae1cc7a9f28e6f0ef3f4734d61ad7"
+    },
+    {
+      "path": "/assets/learning/natures/xun.png",
+      "bytes": 495624,
+      "sha256": "dce86fca72f10885718c88409ab53077cfac8af0d43aecac55e788eb5147b9f2"
+    },
+    {
+      "path": "/assets/learning/natures/zhen.png",
+      "bytes": 490940,
+      "sha256": "30fac1caadd27312cae2b68f388ab8347bf6c886844cb31eb9481f9f2c46d247"
+    },
+    {
+      "path": "/assets/learning/stages/stage-2.png",
+      "bytes": 877220,
+      "sha256": "da2ed3f49e30d72ac33f3041275be42059dfdfb4da09316ec9d0f96fb4ecef6d"
+    },
+    {
+      "path": "/assets/learning/stages/stage-3.png",
+      "bytes": 886220,
+      "sha256": "f7eedc84674408abb4756255dfd6bc8866884338aa14cfa4bdaf4c435ceeba27"
+    },
+    {
+      "path": "/assets/learning/trigrams/dui.png",
+      "bytes": 481803,
+      "sha256": "43614af58b4c1c0965b8b58b71493b364450db307067f2ccb95652e70d1f6964"
+    },
+    {
+      "path": "/assets/learning/trigrams/gen.png",
+      "bytes": 479856,
+      "sha256": "5ffc36cfdc344fa4a85ff6289dcb2239124f6376d51fde6e7aaf30e92ac8d1d9"
+    },
+    {
+      "path": "/assets/learning/trigrams/kan.png",
+      "bytes": 511275,
+      "sha256": "aff9dbf972eafa02ba086ee77773d310c4b056e03271f179e3b228bbcadf3499"
+    },
+    {
+      "path": "/assets/learning/trigrams/kun.png",
+      "bytes": 478444,
+      "sha256": "8549160a6562f8838d9e6f6ad6c7da152a789f7264664d6ee65eb58bd4f5b857"
+    },
+    {
+      "path": "/assets/learning/trigrams/li.png",
+      "bytes": 455129,
+      "sha256": "2819206f8710c4ff16da54c3209b0a386548cfa245539bf195f57e7894fdef03"
+    },
+    {
+      "path": "/assets/learning/trigrams/qian.png",
+      "bytes": 416836,
+      "sha256": "7ae2d55296d21af6093652f991de29c8144ae1cc7a9f28e6f0ef3f4734d61ad7"
+    },
+    {
+      "path": "/assets/learning/trigrams/xun.png",
+      "bytes": 495624,
+      "sha256": "dce86fca72f10885718c88409ab53077cfac8af0d43aecac55e788eb5147b9f2"
+    },
+    {
+      "path": "/assets/learning/trigrams/zhen.png",
+      "bytes": 490940,
+      "sha256": "30fac1caadd27312cae2b68f388ab8347bf6c886844cb31eb9481f9f2c46d247"
+    },
+    {
+      "path": "/assets/reaction/dual-chase-streak.png",
+      "bytes": 1028200,
+      "sha256": "f11068f83bd51acc87d0ddf9957d8c297c6d7d4cd8247162de8f58dc07ea8ca5"
+    },
+    {
+      "path": "/assets/reaction/hunt-lock-glow.png",
+      "bytes": 1044041,
+      "sha256": "194504842780c19617a7d8c43178f23ca2dda1deb369853678d7f4d7c5a1879c"
+    },
+    {
+      "path": "/assets/reaction/snap-verdict-glow.png",
+      "bytes": 1152309,
+      "sha256": "f910e253644046005c6f4e0555cff58ce9615b79f0b4eb31c6ddf394cd18d881"
+    },
+    {
+      "path": "/assets/trigrams/dui-card-v2.webp",
+      "bytes": 94334,
+      "sha256": "b9e5a1d6d3fb171595249180140428fae2dd57a1da83e96c79371bbd008131e8"
+    },
+    {
+      "path": "/assets/trigrams/gen-card-v2.webp",
+      "bytes": 90670,
+      "sha256": "0461df7ac2e4f930a1bb5d69ca1f43a5b06fdacf38ffa604443ffacc1d257fb5"
+    },
+    {
+      "path": "/assets/trigrams/kan-card-v2.webp",
+      "bytes": 113916,
+      "sha256": "6e798fdbe17bdeb835bf519fb419c616a8fc4ba3ae59eff57365b4528cbbaf83"
+    },
+    {
+      "path": "/assets/trigrams/kun-card-v2.webp",
+      "bytes": 96798,
+      "sha256": "002ffc5eb2630bf3dcae0c66bbe529ef8939083e8bad3a90ce18a028843b5b31"
+    },
+    {
+      "path": "/assets/trigrams/li-card-v2.webp",
+      "bytes": 113276,
+      "sha256": "35b2499ae5cfcc96086e3c880be9b7fff2112fdfd62a53ef01d242c95ceb8f44"
+    },
+    {
+      "path": "/assets/trigrams/qian-card-v2.webp",
+      "bytes": 81072,
+      "sha256": "5f3290d7c27aeb885682f2952756c80dc7a3cf79764ba9a6b26bcb3b8455e8da"
+    },
+    {
+      "path": "/assets/trigrams/xun-card-v2.webp",
+      "bytes": 94050,
+      "sha256": "fb9beb45c64b6d58efcf7cae54aad65198e9de5a9eb20067f42db930cd487343"
+    },
+    {
+      "path": "/assets/trigrams/zhen-card-v2.webp",
+      "bytes": 92570,
+      "sha256": "5e6df8d19871908adee24b32575c03d0a7737a7734765e6b2ac3a294995c1606"
+    }
+  ],
+  "removed": [
+    "/assets/aaa/hero-cinematic.png",
+    "/assets/aaa/mutual/arena-temple-mobile-v2.webp",
+    "/assets/aaa/mutual/arena-temple-v2.webp",
+    "/assets/aaa/mutual/bamboo-scrolls-v2.webp",
+    "/assets/aaa/mutual/cinnabar-seal-v2.webp",
+    "/assets/aaa/mutual/fx-clear-seal-v2.webp",
+    "/assets/aaa/mutual/incense-burner-v2.webp",
+    "/assets/aaa/mutual/lantern-left-v2.webp",
+    "/assets/aaa/mutual/lantern-right-v2.webp",
+    "/assets/aaa/mutual/mirror-left-v2.webp",
+    "/assets/aaa/mutual/mirror-right-v2.webp",
+    "/assets/aaa/realms/ember-arena-desktop-v1.webp",
+    "/assets/aaa/realms/ember-arena-mobile-v1.webp",
+    "/assets/aaa/realms/ember-bracket-left-v1.webp",
+    "/assets/aaa/realms/ember-meteor-right-v1.webp",
+    "/assets/aaa/realms/frost-arena-desktop-v1.webp",
+    "/assets/aaa/realms/frost-arena-mobile-v1.webp",
+    "/assets/aaa/realms/frost-chime-right-v1.webp",
+    "/assets/aaa/realms/frost-prism-left-v1.webp",
+    "/assets/aaa/realms/tidal-arena-desktop-v1.webp",
+    "/assets/aaa/realms/tidal-arena-mobile-v1.webp",
+    "/assets/aaa/realms/tidal-fan-right-v1.webp",
+    "/assets/aaa/realms/tidal-pendant-left-v1.webp",
+    "/assets/aaa/reward-burst.png",
+    "/assets/aaa/training-arena.png",
+    "/assets/badges/hint.png",
+    "/assets/badges/progress.png",
+    "/assets/bg-game.png",
+    "/assets/bg-result.png",
+    "/assets/bg-start.png",
+    "/assets/combat/effects/effect-array-crack.png",
+    "/assets/combat/effects/effect-combo-ring.png",
+    "/assets/combat/effects/effect-forge-spark.png",
+    "/assets/combat/effects/effect-gold-hit.png",
+    "/assets/combat/effects/effect-ink-slash.png",
+    "/assets/combat/effects/effect-mastery-up.png",
+    "/assets/combat/effects/effect-pass-stamp.png",
+    "/assets/combat/effects/effect-wrong-block.png",
+    "/assets/combat/stages/stage-awaken.png",
+    "/assets/combat/stages/stage-break-array.png",
+    "/assets/combat/stages/stage-forge.png",
+    "/assets/combat/stages/stage-lockon.png",
+    "/assets/combat/stages/stage-oracle.png",
+    "/assets/combat/stages/stage-trial.png",
+    "/assets/effects/success-glow.png",
+    "/assets/iching/academy-home/academy-primary-button-states-v1.webp",
+    "/assets/iching/bottom-navigation-bar-imperial-v1.png",
+    "/assets/iching/character-portrait-scholar-v1.png",
+    "/assets/iching/current-lesson-progress-panel-imperial-v1.png",
+    "/assets/iching/daily-task-panel-imperial-v1.png",
+    "/assets/iching/frame-overlay-imperial-v1.png",
+    "/assets/iching/game-mode-art-bagua-foundation-v1.png",
+    "/assets/iching/game-mode-art-scroll-learning-v1.png",
+    "/assets/iching/game-mode-art-strategy-duel-v1.png",
+    "/assets/iching/game-mode-art-trial-pagoda-v1.png",
+    "/assets/iching/game-mode-card-frame-imperial-v1.png",
+    "/assets/iching/knowledge-score-medallion-imperial-v1.png",
+    "/assets/iching/leaderboard-panel-imperial-v1.png",
+    "/assets/iching/learning-reward-panel-imperial-v1.png",
+    "/assets/iching/player-profile-panel-imperial-v1.png",
+    "/assets/iching/quote-panel-imperial-v1.png",
+    "/assets/iching/ranking-medals-gold-silver-bronze-v1.png",
+    "/assets/iching/title-plaque-imperial-v1.png",
+    "/assets/learning/badges/encouragement.png",
+    "/assets/learning/badges/mastery.png",
+    "/assets/learning/badges/pass-stamp.png",
+    "/assets/learning/badges/progress-coin.png",
+    "/assets/learning/modes/mode-build.png",
+    "/assets/learning/modes/mode-lower.png",
+    "/assets/learning/modes/mode-review.png",
+    "/assets/learning/modes/mode-symbol.png",
+    "/assets/learning/modes/mode-trigram-image.png",
+    "/assets/learning/modes/mode-upper.png",
+    "/assets/learning/realms/realm-1.png",
+    "/assets/learning/realms/realm-2.png",
+    "/assets/learning/realms/realm-3.png",
+    "/assets/learning/realms/realm-4.png",
+    "/assets/learning/stages/stage-1.png",
+    "/assets/learning/stages/stage-4.png",
+    "/assets/learning/stages/stage-5.png",
+    "/assets/learning/stages/stage-6.png",
+    "/assets/mutual/effect-mutual-extract.png",
+    "/assets/mutual/effect-mutual-hit.png",
+    "/assets/mutual/effect-mutual-seal.png",
+    "/assets/mutual/stage-mutual-easy.png",
+    "/assets/mutual/stage-mutual-endless.png",
+    "/assets/mutual/stage-mutual-hall.png",
+    "/assets/mutual/stage-mutual-hard.png",
+    "/assets/mutual/stage-mutual-medium.png",
+    "/assets/mutual/stage-mutual-timed.png",
+    "/assets/mutual/stage-mutual-ultra.png",
+    "/assets/reaction/stage-dual-chase.png",
+    "/assets/reaction/stage-hexagram-hunt.png",
+    "/assets/reaction/stage-true-false-snap.png",
+    "/assets/speed/countdown-fire-ring.png",
+    "/assets/speed/speed-hit.png",
+    "/assets/speed/tower-gate.png",
+    "/assets/speed/tower-map.png",
+    "/assets/trigrams/dui.png",
+    "/assets/trigrams/gen.png",
+    "/assets/trigrams/kan.png",
+    "/assets/trigrams/kun.png",
+    "/assets/trigrams/li.png",
+    "/assets/trigrams/qian.png",
+    "/assets/trigrams/xun.png",
+    "/assets/trigrams/zhen.png"
+  ]
+}
