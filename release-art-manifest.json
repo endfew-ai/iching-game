@@ -127,6 +127,11 @@
       "sha256": "b8257f0eda102d904dec8244c1ef41b1b6478c4e33c778b13fc4d7e10499b094"
     },
     {
+      "path": "/assets/aaa/eight-palaces/eight-palaces-academy-home-mobile-v1.webp",
+      "bytes": 47402,
+      "sha256": "c9f2c517837517b6cbb176ecca002a08c32647fda6bea2360f6860cc1459d835"
+    },
+    {
       "path": "/assets/aaa/eight-palaces/eight-palaces-realm-earth-bg-v1.webp",
       "bytes": 254948,
       "sha256": "25ede6b684813dcc11cc78d9b9659406f3f34b52d7498c874e2180b31792b348"
@@ -277,9 +282,19 @@
       "sha256": "0d81837f3366598213f70ec3fdcd29245a6e35881c2755c5b9fcbe4e99b951b0"
     },
     {
+      "path": "/assets/aaa/grandmaster/gm-realm-01-forge-courtyard-home-mobile-v1.webp",
+      "bytes": 52686,
+      "sha256": "6c09727d76ecb521c3f3f2e1d17beb9426623a28563490059f8d6929b2fdc1dc"
+    },
+    {
       "path": "/assets/aaa/grandmaster/gm-realm-02-silver-ravine-bg-v1.webp",
       "bytes": 166182,
       "sha256": "05f9e37abf9ee902abf40b48af4f350b7fe63cbd95fdf918a62d911c85d2f4fc"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-02-silver-ravine-home-mobile-v1.webp",
+      "bytes": 39106,
+      "sha256": "61687b2c5b2ce3a013f1b42609813775654aa8beaed8b756ca92056f772c6004"
     },
     {
       "path": "/assets/aaa/grandmaster/gm-realm-03-glass-tempest-bg-v1.webp",
@@ -287,9 +302,19 @@
       "sha256": "fe9b7f26582eeebf097359ec8a9f5b9fa32a40dd35fb9d521f5668e83d9edb0d"
     },
     {
+      "path": "/assets/aaa/grandmaster/gm-realm-03-glass-tempest-home-mobile-v1.webp",
+      "bytes": 74928,
+      "sha256": "64c870b53d0af9839e812ee2d9cb33d7cf2deae5f0be154430b17e309c69835c"
+    },
+    {
       "path": "/assets/aaa/grandmaster/gm-realm-04-void-summit-bg-v1.webp",
       "bytes": 149884,
       "sha256": "da62b231b9740d67d785b622d8255557a2710b10d62341c559ac0ea61a6dbe2c"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-04-void-summit-home-mobile-v1.webp",
+      "bytes": 36476,
+      "sha256": "834cfa581f2a8e39622f208b9a6299b6890487e4e9f6191529fb6d024df15203"
     },
     {
       "path": "/assets/aaa/grandmaster/gm-realm-05-storm-bamboo-canyon-bg-v1.webp",
@@ -297,9 +322,19 @@
       "sha256": "76f50f5948e8396c38d32f596dde0e5194fdb18075896fec4d1f97f83cc384d8"
     },
     {
+      "path": "/assets/aaa/grandmaster/gm-realm-05-storm-bamboo-canyon-home-mobile-v1.webp",
+      "bytes": 92176,
+      "sha256": "97341727d72f6ddb4fd2cebe6fd6d341dddb8f3261c36430a01fc0e34fe41453"
+    },
+    {
       "path": "/assets/aaa/grandmaster/gm-realm-06-obsidian-volcanic-pass-bg-v1.webp",
       "bytes": 208352,
       "sha256": "722be7bb0d8aa028a70aa88080a0db418f57dbb8a2cb1cb3402cf399d048ab22"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-06-obsidian-volcanic-pass-home-mobile-v1.webp",
+      "bytes": 64042,
+      "sha256": "7b375d67b738db2455b543f0430e533b75604524a5ebab6fd1dfb61f6b55cd39"
     },
     {
       "path": "/assets/aaa/grandmaster/gm-realm-07-frozen-cliff-bg-v1.webp",
@@ -307,9 +342,19 @@
       "sha256": "c3e22730ce81d8e993c7f8ab94e0c1196812d6f171b4a87459f6d9e0b742f171"
     },
     {
+      "path": "/assets/aaa/grandmaster/gm-realm-07-frozen-cliff-home-mobile-v1.webp",
+      "bytes": 81864,
+      "sha256": "f8861eb022c0a9d88746d0f00e2ca0ebd74b35433e1ad67d3402e27dbceab3f7"
+    },
+    {
       "path": "/assets/aaa/grandmaster/gm-realm-08-cloud-summit-bg-v1.webp",
       "bytes": 201084,
       "sha256": "1780f5a2ad09c45d7dd7b93eedb71803a7029f509ef015805c7346f89f8d10b1"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/gm-realm-08-cloud-summit-home-mobile-v1.webp",
+      "bytes": 68508,
+      "sha256": "f062bf34f4059fe907872c3e83f80df602fa9c849464d2759429452b41c48fdd"
     },
     {
       "path": "/assets/aaa/home-actions/fx-home-action-contact-v1.webp",
@@ -750,6 +795,11 @@
       "path": "/assets/aaa/taiji/fx-taiji-array-convergence-v1.webp",
       "bytes": 361814,
       "sha256": "e2068d2b59349fdb28642f7d50d749605c4c681bdaf7436231d74286b0e461af"
+    },
+    {
+      "path": "/assets/aaa/taiji/taiji-orbit-courtyard-home-mobile-v1.webp",
+      "bytes": 49540,
+      "sha256": "b83df6ca0d7b4b84a87ae4a09e13669d77fb55c3a254fbe8ea33c0ede4a22307"
     },
     {
       "path": "/assets/aaa/taiji/taiji-orbit-courtyard-v1.webp",

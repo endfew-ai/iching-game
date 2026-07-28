@@ -1,0 +1,1 @@
+function e(e){if(typeof window>`u`)return null;try{return window[e]}catch{return null}}function t(e,t){try{return e?.getItem(t)??null}catch{return null}}function n(e,t,n){try{return e?(e.setItem(t,n),!0):!1}catch{return!1}}function r(e,t){try{return e?(e.removeItem(t),!0):!1}catch{return!1}}export{n as i,t as n,r,e as t};

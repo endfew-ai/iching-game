@@ -1,0 +1,1 @@
+function e(){let e=0,t=`idle`;return{beginObservation(){return e+=1,t=`observing`,e},activateAnswering(n){return n!==e||t!==`observing`?!1:(t=`answering`,!0)},trySettle(n){return n!==e||t!==`answering`?!1:(t=`settled`,!0)},isCurrent(n){return n===e&&t!==`disposed`},invalidate(){return e+=1,t=`settled`,e},dispose(){e+=1,t=`disposed`}}}export{e as t};
