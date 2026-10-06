@@ -1202,6 +1202,11 @@
       "sha256": "3c85afa1a0b8f6e4bf0fca3966205fdbf76b8e8fc0cfbbe6f5500c15755ba442"
     },
     {
+      "path": "/assets/iching/mobile-home/manuscript-gift-cutout-v2.webp",
+      "bytes": 22444,
+      "sha256": "fd1a0fe6d24bbf5121bddeb6ea58ac17286cab37a4f6d88f5e1ef605d2d26f9b"
+    },
+    {
       "path": "/assets/iching/mobile-home/manuscript-ink-frame-v1.webp",
       "bytes": 135028,
       "sha256": "193968a0cb383bb8bb7b03db44991e3d91456d832e7425d8289e105e02bc7b4a"
