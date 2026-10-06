@@ -2,9 +2,20 @@
 <html lang="zh-Hant">
   <head>
     <meta charset="UTF-8" />
+    <!-- Establish the mobile viewport before media-qualified image preloads. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/iching-game/favicon.svg" />
     <link rel="manifest" href="/iching-game/manifest.webmanifest" />
     <link rel="apple-touch-icon" href="/iching-game/pwa/icon-180.png" />
+    <!-- Match the existing automatic mobile breakpoint; preserve Pages base path. -->
+    <link
+      rel="preload"
+      as="image"
+      type="image/webp"
+      href="/iching-game/assets/iching/mobile-home/manuscript-landscape-v1.webp"
+      media="(max-width: 820px)"
+      fetchpriority="high"
+    />
     <link
       rel="preload"
       href="/iching-game/assets/iching/fonts/iansui-academy-titles-v1.woff2"
@@ -12,7 +23,6 @@
       type="font/woff2"
       crossorigin
     />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#9f3425" />
     <meta
       name="robots"
@@ -34,10 +44,10 @@
       content="掌中乾坤：用上卦與下卦練習六十四卦的易經拼卦遊戲。"
     />
     <title>掌中乾坤｜易經遊戲</title>
-    <script type="module" crossorigin src="/iching-game/assets/index-ByfZ8FpZ.js"></script>
+    <script type="module" crossorigin src="/iching-game/assets/index-IfIi7-o3.js"></script>
     <link rel="modulepreload" crossorigin href="/iching-game/assets/rolldown-runtime-D9-fqq9M.js">
-    <link rel="modulepreload" crossorigin href="/iching-game/assets/vendor-icons-DVWz7A6P.js">
-    <link rel="modulepreload" crossorigin href="/iching-game/assets/vendor-react-wgwrWEf1.js">
+    <link rel="modulepreload" crossorigin href="/iching-game/assets/vendor-icons-C0Hpn09N.js">
+    <link rel="modulepreload" crossorigin href="/iching-game/assets/vendor-react-D0cFqUdD.js">
     <link rel="modulepreload" crossorigin href="/iching-game/assets/hexagrams-ByatliwP.js">
     <link rel="modulepreload" crossorigin href="/iching-game/assets/trainingPace-D6uW0ZNr.js">
     <link rel="modulepreload" crossorigin href="/iching-game/assets/recognitionTower-Dc3MzSGf.js">
@@ -45,7 +55,7 @@
     <link rel="modulepreload" crossorigin href="/iching-game/assets/mutualTrainingProgress-ED2xTEoH.js">
     <link rel="modulepreload" crossorigin href="/iching-game/assets/recognitionDailyTraining-BhS-As8m.js">
     <link rel="modulepreload" crossorigin href="/iching-game/assets/safeStorage-CdpEW7FB.js">
-    <link rel="stylesheet" crossorigin href="/iching-game/assets/index-DhDe-S9e.css">
+    <link rel="stylesheet" crossorigin href="/iching-game/assets/index-DbOUjeQw.css">
   </head>
   <body>
     <div id="root"></div>

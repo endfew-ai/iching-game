@@ -1177,6 +1177,71 @@
       "sha256": "51e241561bd93b91a0a07d3487b81bb7b88073222b6c434f3a9b5ab32bbfbf14"
     },
     {
+      "path": "/assets/iching/mobile-home/manuscript-bottom-nav-v2.webp",
+      "bytes": 113658,
+      "sha256": "a27c4e237398a1803a2abd3d09f16fd92a87e1d6a0e391a3102126371c2590fe"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-daily-panel-v1.webp",
+      "bytes": 146002,
+      "sha256": "0848065325f01412ccacf0edc87ad4fe0e4fdabef3ffafbf48b9d93220efbee3"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-daily-panel-v2.webp",
+      "bytes": 144542,
+      "sha256": "812468c341d9e41ad1eba0e524ca81c6bf7ae63caf2ce2570e3c39b3ebab0b86"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-daily-panel-v3.webp",
+      "bytes": 122986,
+      "sha256": "0b9ee3bb592357ef4335bf187c7c457a329d66cc3ccca2676b8dd54cd0b4cf02"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-gift-cutout-v1.webp",
+      "bytes": 32894,
+      "sha256": "3c85afa1a0b8f6e4bf0fca3966205fdbf76b8e8fc0cfbbe6f5500c15755ba442"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-ink-frame-v1.webp",
+      "bytes": 135028,
+      "sha256": "193968a0cb383bb8bb7b03db44991e3d91456d832e7425d8289e105e02bc7b4a"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-landscape-v1.webp",
+      "bytes": 219338,
+      "sha256": "b45a9167bd8bc7352dd5fd56c19fcc76c47980180b4497cab2bdf0c15f55deae"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-progress-board-v1.webp",
+      "bytes": 189166,
+      "sha256": "10c9c94adac6458d4e2087137154f148bb754cacd1fc928f736f70724b28bdca"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-progress-board-v2.webp",
+      "bytes": 101112,
+      "sha256": "386f338681dc2c7ae0e959c229af2dd262298d8243b5c376eea1e2ca81a9405f"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-progress-board-v3.webp",
+      "bytes": 79382,
+      "sha256": "cd9d15cce22fd7cdd69e85eedbc916097056e23800a11d5fc0718849df7c4b89"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-stats-strip-v1.webp",
+      "bytes": 71666,
+      "sha256": "d4c2cec068bee35bfead66fb3ae42bff2b0b190b5e9c6a09dea094e10b831eee"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-training-triptych-v1.webp",
+      "bytes": 295306,
+      "sha256": "55874681340dd933509d7ef471f64d097c0a82de7af76cc409dd5dfa25732539"
+    },
+    {
+      "path": "/assets/iching/mobile-home/manuscript-training-triptych-v2.webp",
+      "bytes": 294884,
+      "sha256": "73b6fd801df19835489faad330d2d647fd41bdff9b49efc2b750bbae225e5d4c"
+    },
+    {
       "path": "/assets/learning/badges/review-book.png",
       "bytes": 496358,
       "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
