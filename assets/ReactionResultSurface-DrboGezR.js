@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-B8HTPd5z.js";import{Nn as t}from"./index-CPYn-iG2.js";var n=e();function r({tone:e}){return(0,n.jsx)(`img`,{alt:``,"aria-hidden":`true`,className:`reaction-result-surface`,decoding:`async`,draggable:`false`,fetchPriority:`low`,onError:e=>{e.currentTarget.hidden=!0},src:t.reactionResultSurfaces[e]})}export{r as t};
