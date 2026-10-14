@@ -1272,6 +1272,16 @@
       "sha256": "73b6fd801df19835489faad330d2d647fd41bdff9b49efc2b750bbae225e5d4c"
     },
     {
+      "path": "/assets/iching/module-study-r37/mutual-study-v1.webp",
+      "bytes": 1676164,
+      "sha256": "33216d92b85b996939f0a93580c23dfd2863b2a90f654d8afc44f808365a7cdd"
+    },
+    {
+      "path": "/assets/iching/module-study-r37/workshop-study-v1.webp",
+      "bytes": 1839102,
+      "sha256": "41fc2e055561e0e002c275631a67e5532ac0dcbfdd8451238ee00aa382c21c60"
+    },
+    {
       "path": "/assets/learning/badges/review-book.png",
       "bytes": 496358,
       "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
