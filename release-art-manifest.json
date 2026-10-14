@@ -797,6 +797,31 @@
       "sha256": "e2068d2b59349fdb28642f7d50d749605c4c681bdaf7436231d74286b0e461af"
     },
     {
+      "path": "/assets/aaa/taiji/reference-r34/celestial-orb-v1.webp",
+      "bytes": 652436,
+      "sha256": "906e79bd2feb49c8ec55c53f2a34ea2d6b47eb1b83b09747e106421c651fd1e8"
+    },
+    {
+      "path": "/assets/aaa/taiji/reference-r34/glass-plaque-v1.webp",
+      "bytes": 235328,
+      "sha256": "bd90452342776209e413b56ab556286c98de7cb568dc9a690ee3fa3d7ed43f80"
+    },
+    {
+      "path": "/assets/aaa/taiji/reference-r34/inscription-frame-v3.webp",
+      "bytes": 279418,
+      "sha256": "0f8af1d46871b8227443f1fe31a9846e7db1490d4bae18eaafff4b050c01a5c4"
+    },
+    {
+      "path": "/assets/aaa/taiji/reference-r34/metal-frame-v2.webp",
+      "bytes": 147354,
+      "sha256": "d56aa03f26f7843fca649d1b92e04a7fbbe28477aa45247d7f84e2b5c855628e"
+    },
+    {
+      "path": "/assets/aaa/taiji/reference-r34/temple-scene-v1.webp",
+      "bytes": 310746,
+      "sha256": "3b5699efdb734f1b6c1c1c8bcbe789ee44235726e203f8caa15fb64ebde43732"
+    },
+    {
       "path": "/assets/aaa/taiji/taiji-orbit-courtyard-home-mobile-v1.webp",
       "bytes": 49540,
       "sha256": "b83df6ca0d7b4b84a87ae4a09e13669d77fb55c3a254fbe8ea33c0ede4a22307"
