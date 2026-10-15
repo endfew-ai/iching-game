@@ -1,0 +1,1 @@
+import{ft as e,gt as t,ut as n}from"./index-DBbev-Jm.js";function r(r){if(r.saved)return r.saved;let i=n();if(!i)return null;let a=t(i,r.update);return e(a)?(r.saved=a,a):null}export{r as t};
