@@ -1,0 +1,20 @@
+IChing Academy Calligraphy R41 - attribution/source summary
+
+This is a derived attribution summary, not an original upstream AUTHORS.txt.
+The pinned upstream repository root does not provide an AUTHORS file.
+Original copyright statements below are preserved verbatim from the official OFL.txt.
+
+Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwZhenKai), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'. [ADDITIONAL PERMISSION] The Reserved Font Names '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW' may continue to be used in Modified Versions recompiled from the Original Version, without modifications to the font source code; or in Modified Versions subsetted or converted to other formats (e.g., WOFF/WOFF2) solely for web font delivery, provided such Modified Versions are not made available as installable desktop fonts (e.g., on mainstream platforms like Google Fonts, or third-party non-commercial platforms recognized by the author @lxgw; other web font platforms please contact the author @lxgw for confirmation).
+Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
+Copyright 2024 The Batang and Gungsuh Project Authors (https://github.com/googlefonts/batang)
+Copyright Holder. This restriction only applies to the primary font name as
+Copyright Holder(s) and the Author(s) or with their explicit written
+
+Official source: https://github.com/lxgw/LxgwZhenKai/releases/tag/v0.827
+Pinned upstream commit: c576bb1fbf557b4c7bce13c6fc808cbae8e50efa
+Original font: LXGWZhenKaiSlabGB-Regular.ttf
+Original SHA256: bf4ea8c39b51784469020120125715d3075137233fe337b5d0a7327f9dfc03bd
+Changes: UI Unicode subset and internal family/name replacement only; no glyph-outline, advance, sidebearing, native weight or line-metric changes.
+Internal family: IChing Academy Calligraphy R41
+Native weight: 400 (Regular).
+The original full OFL.txt is distributed beside this file.

@@ -1222,6 +1222,11 @@
       "sha256": "d25b07af38f0df915c56787c8ac64c248785e9b233c38468892c09ca40cea731"
     },
     {
+      "path": "/assets/iching/academy-reference-r41/academy-art-atlas-v1.webp",
+      "bytes": 1852370,
+      "sha256": "f6b1fb4b0f49757005d1768899e75d53ce56de84788b96ee3bd52f4f6650fe8d"
+    },
+    {
       "path": "/assets/iching/mobile-home/manuscript-bottom-nav-v2.webp",
       "bytes": 113658,
       "sha256": "a27c4e237398a1803a2abd3d09f16fd92a87e1d6a0e391a3102126371c2590fe"
