@@ -657,6 +657,16 @@
       "sha256": "406762b21eab7a622a8b26819f840ec06edbef5f902e5d15395a0195b1d185ae"
     },
     {
+      "path": "/assets/aaa/speed-tower/reference-r43/academy-night-v1.webp",
+      "bytes": 2210596,
+      "sha256": "28857b0fb8aff002d0e350d5a855a40b6b62bbf47db5fc1d8f3cbaedbbbffe4c"
+    },
+    {
+      "path": "/assets/aaa/speed-tower/reference-r43/ui-atlas-v1.webp",
+      "bytes": 1349776,
+      "sha256": "b9eb0b1bd348f6804c8d3f941ce9274fc690cab28cc32e1c744339311b1d975d"
+    },
+    {
       "path": "/assets/aaa/speed-tower/tower-realm-01-dawn-academy-bg-v1.webp",
       "bytes": 370924,
       "sha256": "84cb6dda1d9b53528dafd59bf267d1d1491c40040501706b2c122ca80a786b94"

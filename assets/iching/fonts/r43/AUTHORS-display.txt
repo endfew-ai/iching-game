@@ -1,0 +1,17 @@
+IChing Academy Tower Brand R43 - derived attribution/source summary
+
+This file is a derivative attribution summary, not a claimed upstream AUTHORS file.
+
+Copyright 2018 The Ma Shan Zheng Project Authors (https://github.com/googlefonts/mashanzheng)
+Copyright Holder. This restriction only applies to the primary font name as
+Copyright Holder(s) and the Author(s) or with their explicit written
+
+Official distribution: https://github.com/google/fonts/tree/406197b91ff39a93061c2c2eeaee67ddf2ae1f0d/ofl/mashanzheng
+Upstream: https://github.com/googlefonts/mashanzheng
+Original source: MaShanZheng-Regular.ttf
+Original SHA256: 6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb
+Derivative internal family: IChing Academy Tower Brand R43
+Changes: Unicode subset retaining exactly four characters (掌中乾坤); internal names replaced. The exact generated codepoints are in UNICODE_RANGE.txt.
+No outlines, advance, sidebearing or native 400 weight/line metrics changed.
+Only the four live brand characters are retained in this derivative subset.
+The complete original SIL OFL1.1 text is copied byte-exact beside this summary.
