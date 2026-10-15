@@ -357,6 +357,21 @@
       "sha256": "f062bf34f4059fe907872c3e83f80df602fa9c849464d2759429452b41c48fdd"
     },
     {
+      "path": "/assets/aaa/grandmaster/reference-r45/academy-night-v1.webp",
+      "bytes": 1904170,
+      "sha256": "031df9b82b176c86e06f8da789385f21ae41957f761b0410fb09c2caf45eccef"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/reference-r45/answer-scenes-v1.webp",
+      "bytes": 2028962,
+      "sha256": "6d2412f50cba0765b0ebdec5452bec2e19b29d8a8a74cc3843126510cdd44515"
+    },
+    {
+      "path": "/assets/aaa/grandmaster/reference-r45/dragon-ring-v1.webp",
+      "bytes": 925364,
+      "sha256": "b91dcc5b317aab5ec341240c069e3ab7d88491075291fd2ef56369014c1157ad"
+    },
+    {
       "path": "/assets/aaa/home-actions/fx-home-action-contact-v1.webp",
       "bytes": 9938,
       "sha256": "4b57ca052d565343af4e878b04ee091dea365b6819f71f72f582403480c4bd93"
