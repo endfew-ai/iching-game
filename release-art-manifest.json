@@ -1202,6 +1202,26 @@
       "sha256": "51e241561bd93b91a0a07d3487b81bb7b88073222b6c434f3a9b5ab32bbfbf14"
     },
     {
+      "path": "/assets/iching/academy-reference-r40/academy-valley-v1.webp",
+      "bytes": 328390,
+      "sha256": "edf8118bca61cb9deab5a0e4ee532b0b48fc186f92fb5a4503e11a9534f85e14"
+    },
+    {
+      "path": "/assets/iching/academy-reference-r40/carved-card-frame-v1.webp",
+      "bytes": 1072514,
+      "sha256": "c50799cfbe2c7671b3b6a7e09d1f6ebe78ff28a7663f75c48672f87353dc7cc9"
+    },
+    {
+      "path": "/assets/iching/academy-reference-r40/scroll-landscape-v1.webp",
+      "bytes": 303210,
+      "sha256": "d5070b9c82b29ee0d784b37c600008715de3dcdf118cebdc09668a930df016ef"
+    },
+    {
+      "path": "/assets/iching/academy-reference-r40/title-plaque-v1.webp",
+      "bytes": 1663914,
+      "sha256": "d25b07af38f0df915c56787c8ac64c248785e9b233c38468892c09ca40cea731"
+    },
+    {
       "path": "/assets/iching/mobile-home/manuscript-bottom-nav-v2.webp",
       "bytes": 113658,
       "sha256": "a27c4e237398a1803a2abd3d09f16fd92a87e1d6a0e391a3102126371c2590fe"
