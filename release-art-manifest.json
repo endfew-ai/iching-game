@@ -12,6 +12,26 @@
       "sha256": "13cc2bce811324b8ff19a3c626a8ae4383786b71b07eb0e846db6ec1b5118ade"
     },
     {
+      "path": "/assets/aaa/adventure/reference-r49/brush-navigation-r49.webp",
+      "bytes": 232458,
+      "sha256": "7463b45b6cc4effb20613656424bf8e615fae78fe13f16053ffb01a56b084977"
+    },
+    {
+      "path": "/assets/aaa/adventure/reference-r49/ink-world-r49.webp",
+      "bytes": 400854,
+      "sha256": "a6cca68ddb737dd604d2f959e57d205aef20a329325f3402e318569911d97f24"
+    },
+    {
+      "path": "/assets/aaa/adventure/reference-r49/jade-answer-r49.webp",
+      "bytes": 189812,
+      "sha256": "9dca04a060ecadae07808532349df9fdd693d2257c962ea417eec7807507f39b"
+    },
+    {
+      "path": "/assets/aaa/adventure/reference-r49/parchment-stage-r49.webp",
+      "bytes": 411532,
+      "sha256": "fc8f83e12c46d6f4c6af6474666964a18449bcc5a2762017c9272efd0c7560d6"
+    },
+    {
       "path": "/assets/aaa/core/academy-mode-loading-portal-v1.webp",
       "bytes": 98588,
       "sha256": "016d589621d94d1ee9ea6b90643ee5bb53d5a022a99b459dc51558d9ccf54f57"
