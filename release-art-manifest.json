@@ -2,6 +2,16 @@
   "policy": "Only visually reviewed, symbol-free artwork and nature cards may be published. I Ching line symbols are rendered by code.",
   "published": [
     {
+      "path": "/assets/aaa/adventure/reference-r48/ink-world-r48.webp",
+      "bytes": 336706,
+      "sha256": "3b27693bb7064471b72ddd0f016b8c881b50e5a65a57bb3b1e94df87b0862a4c"
+    },
+    {
+      "path": "/assets/aaa/adventure/reference-r48/parchment-frame-r48.webp",
+      "bytes": 398602,
+      "sha256": "13cc2bce811324b8ff19a3c626a8ae4383786b71b07eb0e846db6ec1b5118ade"
+    },
+    {
       "path": "/assets/aaa/core/academy-mode-loading-portal-v1.webp",
       "bytes": 98588,
       "sha256": "016d589621d94d1ee9ea6b90643ee5bb53d5a022a99b459dc51558d9ccf54f57"
