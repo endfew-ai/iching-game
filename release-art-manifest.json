@@ -492,6 +492,36 @@
       "sha256": "5d6776d3a6d64d7dd1e86da82eabe022d10efd00b859b42ffa8003e9c16dcfb9"
     },
     {
+      "path": "/assets/aaa/mars/reference-r50/answer-r50.webp",
+      "bytes": 94430,
+      "sha256": "e2b1e0742eeda9839569d409ba49454c77d90d29f5816a61f2b1b70b4f52aa20"
+    },
+    {
+      "path": "/assets/aaa/mars/reference-r50/hint-r50.webp",
+      "bytes": 166656,
+      "sha256": "e4834b78e99e6d14291eb6701ef31077053cb7e73b1f25cc0142e478eeccd006"
+    },
+    {
+      "path": "/assets/aaa/mars/reference-r50/parchment-r50.webp",
+      "bytes": 187806,
+      "sha256": "f1e1c1171aed404f0c4f61375302128a0951e83705dab661af79a083626219e0"
+    },
+    {
+      "path": "/assets/aaa/mars/reference-r50/robot-r50.webp",
+      "bytes": 195896,
+      "sha256": "5c4a8328cc6b09914343f6a730c6b91ebf9bb37901e5be313c6ada71882c5b40"
+    },
+    {
+      "path": "/assets/aaa/mars/reference-r50/title-r50.webp",
+      "bytes": 237332,
+      "sha256": "6079c796c9f40d18a3e6c0a85264bda6dfaa3dfd42d12829765cc173536f4ec3"
+    },
+    {
+      "path": "/assets/aaa/mars/reference-r50/world-r50.webp",
+      "bytes": 253842,
+      "sha256": "98ef12e8056da6b6f09f962ae4fcf32eae4ae06c725e9cebf0ad12c219f63aef"
+    },
+    {
       "path": "/assets/aaa/mutual/fx-combo-awaken-v2.webp",
       "bytes": 256348,
       "sha256": "c85de998e25adf75f0b016d90ca2762dcb44eb89b57278f12c00bbbce4c95aa5"
