@@ -1,0 +1,1 @@
+import{_t as e,dt as t,pt as n}from"./index-CykgSBCm.js";function r(r){if(r.saved)return r.saved;let i=t();if(!i)return null;let a=e(i,r.update);return n(a)?(r.saved=a,a):null}export{r as t};
