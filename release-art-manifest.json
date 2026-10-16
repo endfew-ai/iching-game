@@ -632,6 +632,16 @@
       "sha256": "f56754ba7180bf849e24b392492caac42a4aafb81aaccdda2f10ab0369c11204"
     },
     {
+      "path": "/assets/aaa/recognition/reference-r47/hero-dawn-r47.webp",
+      "bytes": 364288,
+      "sha256": "ea0b776743dee4ba66c371b3e8a256e713089f8d84e50a465f04e9ef7754a090"
+    },
+    {
+      "path": "/assets/aaa/recognition/reference-r47/mode-landscape-r47.webp",
+      "bytes": 458546,
+      "sha256": "618a9d87c57be13a6ac83b9ccae73f821380a871a77deb3b76aec14a093acc78"
+    },
+    {
       "path": "/assets/aaa/result-actions/fx-result-action-contact-v1.webp",
       "bytes": 5608,
       "sha256": "12d18630481a93d820eef0fcf15bab5645862d80cd513ffbfa7bde23ff9b8d9b"
