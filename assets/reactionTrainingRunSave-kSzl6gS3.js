@@ -1,0 +1,1 @@
+import{ft as e,mt as t,vt as n}from"./index-BwCTu056.js";function r(r){if(r.saved)return r.saved;let i=e();if(!i)return null;let a=n(i,r.update);return t(a)?(r.saved=a,a):null}export{r as t};
