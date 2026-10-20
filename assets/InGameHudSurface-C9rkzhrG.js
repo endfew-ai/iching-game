@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-DNpqpknu.js";import{Jr as t}from"./index-Opwm30D9.js";var n=e();function r(){return(0,n.jsx)(`img`,{alt:``,"aria-hidden":`true`,className:`in-game-hud-surface`,decoding:`async`,draggable:`false`,src:t.reactionHudSurfaces.chassis})}export{r as t};
