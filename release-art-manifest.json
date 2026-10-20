@@ -1322,6 +1322,16 @@
       "sha256": "f6b1fb4b0f49757005d1768899e75d53ce56de84788b96ee3bd52f4f6650fe8d"
     },
     {
+      "path": "/assets/iching/clay-reference-r60/cloud-emblem-v1.png",
+      "bytes": 1082081,
+      "sha256": "2457cc359b24b6fffc9f52fc10f7dfe36139f444f46dd974d963e99acd551f92"
+    },
+    {
+      "path": "/assets/iching/clay-reference-r60/cloud-lake-v1.png",
+      "bytes": 1770391,
+      "sha256": "5ab61d842f68ee2f902a914fabd5abcb5c2cb9bfe466c27c4683f399e68df35b"
+    },
+    {
       "path": "/assets/iching/mobile-home/manuscript-bottom-nav-v2.webp",
       "bytes": 113658,
       "sha256": "a27c4e237398a1803a2abd3d09f16fd92a87e1d6a0e391a3102126371c2590fe"

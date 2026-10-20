@@ -1,0 +1,1 @@
+import{Gt as e,Vt as t,zt as n}from"./index-D6mRrHkl.js";function r(r){if(r.saved)return r.saved;let i=n();if(!i)return null;let a=e(i,r.update);return t(a)?(r.saved=a,a):null}export{r as t};
