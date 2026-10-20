@@ -1332,6 +1332,21 @@
       "sha256": "5ab61d842f68ee2f902a914fabd5abcb5c2cb9bfe466c27c4683f399e68df35b"
     },
     {
+      "path": "/assets/iching/drum-clay-r61/cream-matte-v1.png",
+      "bytes": 2918273,
+      "sha256": "2f88e1af1ea76b2b8e6c440f57da81bdf4e89580658c49e7b0eb8d916ee4d769"
+    },
+    {
+      "path": "/assets/iching/drum-clay-r61/header-pine-gate-v1.png",
+      "bytes": 1715198,
+      "sha256": "b17d5a64cfaa114e63d653b5d4b7a9e649a36d6ba298588aec863b3c57c776cb"
+    },
+    {
+      "path": "/assets/iching/drum-clay-r61/sunrise-world-v1.png",
+      "bytes": 1987552,
+      "sha256": "aa4c2c41857add84d463a80e94208660d18a9833fa2fd53af65618c39e897692"
+    },
+    {
       "path": "/assets/iching/mobile-home/manuscript-bottom-nav-v2.webp",
       "bytes": 113658,
       "sha256": "a27c4e237398a1803a2abd3d09f16fd92a87e1d6a0e391a3102126371c2590fe"
