@@ -1427,6 +1427,26 @@
       "sha256": "41fc2e055561e0e002c275631a67e5532ac0dcbfdd8451238ee00aa382c21c60"
     },
     {
+      "path": "/assets/iching/needle-clay-r62/hanging-plaque-v1.png",
+      "bytes": 1830714,
+      "sha256": "4151ae3907f4bf741da543fc100d22051c2a28490f2d2a3ee0420644c54de185"
+    },
+    {
+      "path": "/assets/iching/needle-clay-r62/hud-icons-v1.png",
+      "bytes": 903625,
+      "sha256": "0291613fbff8a47b8fa3e3b9e25b9e219ad90eceec0f02041d38fad47e1628db"
+    },
+    {
+      "path": "/assets/iching/needle-clay-r62/question-board-v1.png",
+      "bytes": 2264139,
+      "sha256": "086bf6e2aefa1b2414a487ac7427bc5d9a3f07b1b38f959797157785c0d1b5ed"
+    },
+    {
+      "path": "/assets/iching/needle-clay-r62/valley-world-v1.png",
+      "bytes": 1912196,
+      "sha256": "2d81a3b174392c3667a17e54bb7ce8015a2b53c93e24b041de6dc4bc75be7a6b"
+    },
+    {
       "path": "/assets/learning/badges/review-book.png",
       "bytes": 496358,
       "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
