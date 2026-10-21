@@ -1347,6 +1347,31 @@
       "sha256": "aa4c2c41857add84d463a80e94208660d18a9833fa2fd53af65618c39e897692"
     },
     {
+      "path": "/assets/iching/edge32-aquatic-r64/brand-crest-v1.png",
+      "bytes": 1663987,
+      "sha256": "4da7a9092b2a5520c64ff496eae4c8f99462053dc2aa81daab8e901d5dad5da8"
+    },
+    {
+      "path": "/assets/iching/edge32-aquatic-r64/crystal-orb-v1.png",
+      "bytes": 2399123,
+      "sha256": "034642142309a702a84b50ac920480700a57f0318a7ea6b3b5f2a46aaf30c418"
+    },
+    {
+      "path": "/assets/iching/edge32-aquatic-r64/hud-ribbon-v1.png",
+      "bytes": 1018232,
+      "sha256": "5556bf7f01dcd0df3f16e3e2ae110c3803055cad26ec99ecfa60bdbcd5c3a091"
+    },
+    {
+      "path": "/assets/iching/edge32-aquatic-r64/oval-answer-v1.png",
+      "bytes": 1988685,
+      "sha256": "de1e089c342d2efff374c61459b9923253f3dd95c9aaa52fc70a1ca5baa15ef7"
+    },
+    {
+      "path": "/assets/iching/edge32-aquatic-r64/underwater-world-v1.png",
+      "bytes": 2395709,
+      "sha256": "986a5a232316267ab5d1191f13be0188602d67bf098d77ab6a484f2bc165bc89"
+    },
+    {
       "path": "/assets/iching/mobile-home/manuscript-bottom-nav-v2.webp",
       "bytes": 113658,
       "sha256": "a27c4e237398a1803a2abd3d09f16fd92a87e1d6a0e391a3102126371c2590fe"
