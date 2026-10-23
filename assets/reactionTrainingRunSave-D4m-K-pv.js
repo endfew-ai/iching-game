@@ -1,0 +1,1 @@
+import{Bt as e,Ht as t,Kt as n}from"./index-BG3aJmsA.js";function r(r){if(r.saved)return r.saved;let i=e();if(!i)return null;let a=n(i,r.update);return t(a)?(r.saved=a,a):null}export{r as t};

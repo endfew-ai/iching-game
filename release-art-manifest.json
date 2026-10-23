@@ -1372,6 +1372,21 @@
       "sha256": "986a5a232316267ab5d1191f13be0188602d67bf098d77ab6a484f2bc165bc89"
     },
     {
+      "path": "/assets/iching/missing-lower-ink-r67/ink-world-v1.png",
+      "bytes": 2536837,
+      "sha256": "871aabdba5b786e0ed3e44ed4f811ceb28af063de79fb48b072ebb6daaea06f1"
+    },
+    {
+      "path": "/assets/iching/missing-lower-ink-r67/jade-plaque-v1.png",
+      "bytes": 1547601,
+      "sha256": "e6d1a65d7cb8b7723d440834ac9d8acc52863ab61bb829aaf539c3024fae15bd"
+    },
+    {
+      "path": "/assets/iching/missing-lower-ink-r67/paper-frame-v1.png",
+      "bytes": 2180482,
+      "sha256": "9ac7d0e7081ac0ed9ad1c7b207dcbd197835e32a7685bf0da249bf0366ea8923"
+    },
+    {
       "path": "/assets/iching/mobile-home/manuscript-bottom-nav-v2.webp",
       "bytes": 113658,
       "sha256": "a27c4e237398a1803a2abd3d09f16fd92a87e1d6a0e391a3102126371c2590fe"
