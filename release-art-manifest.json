@@ -1487,6 +1487,41 @@
       "sha256": "2d81a3b174392c3667a17e54bb7ce8015a2b53c93e24b041de6dc4bc75be7a6b"
     },
     {
+      "path": "/assets/iching/recognition-dual-r68/cyber-answer-v1.png",
+      "bytes": 1337911,
+      "sha256": "c6099f27c56b4f52344e6e209cdbab28adb5915be821bd2946c607f880f241bb"
+    },
+    {
+      "path": "/assets/iching/recognition-dual-r68/cyber-reactor-v1.png",
+      "bytes": 1840867,
+      "sha256": "77a8ce7ea1287369b2ee425bc800961757cc022cae1da59def8479b8cefa0936"
+    },
+    {
+      "path": "/assets/iching/recognition-dual-r68/cyber-world-v1.png",
+      "bytes": 2594501,
+      "sha256": "9d62d74de82d28e2d8d72c13019104e20096244233333ef93c07faa4d0a546ff"
+    },
+    {
+      "path": "/assets/iching/recognition-dual-r68/deco-answer-v1.png",
+      "bytes": 1619144,
+      "sha256": "927b288653bd73f562019612c087c8dd5b80712c31d49c36fb4db2426883f0f1"
+    },
+    {
+      "path": "/assets/iching/recognition-dual-r68/deco-dial-v1.png",
+      "bytes": 1353864,
+      "sha256": "263f4e2b30f6dbe4a331ec0a2ad92980a90ff25064722feb868c9a486e6c9106"
+    },
+    {
+      "path": "/assets/iching/recognition-dual-r68/deco-question-v1.png",
+      "bytes": 1755798,
+      "sha256": "2041bce8aff78947046d633324ba334834b9c9817560839be01715ae407ac843"
+    },
+    {
+      "path": "/assets/iching/recognition-dual-r68/deco-world-v1.png",
+      "bytes": 1622680,
+      "sha256": "88f0c4f17c66966272dd866ff23a19b2f35df4e9ce792dd39a2ce466ca3fddb4"
+    },
+    {
       "path": "/assets/learning/badges/review-book.png",
       "bytes": 496358,
       "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
