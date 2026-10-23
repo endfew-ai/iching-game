@@ -1487,6 +1487,46 @@
       "sha256": "2d81a3b174392c3667a17e54bb7ce8015a2b53c93e24b041de6dc4bc75be7a6b"
     },
     {
+      "path": "/assets/iching/recognition-clay-ink-r69/clay-answer-v1.png",
+      "bytes": 1870614,
+      "sha256": "168e8680af779665fda83367d65649bf062ca310faa9120fab42494dc8638133"
+    },
+    {
+      "path": "/assets/iching/recognition-clay-ink-r69/clay-plaque-v1.png",
+      "bytes": 1698256,
+      "sha256": "0be0c9b7e2d93529b458efde67ef1ce97cb58e44ed0fec66c5724126b705924e"
+    },
+    {
+      "path": "/assets/iching/recognition-clay-ink-r69/clay-stage-v2.png",
+      "bytes": 2005803,
+      "sha256": "94482ccc773132619924aae611da7b6d6109c5d84b02e0a45ff0b3ff3980cbb7"
+    },
+    {
+      "path": "/assets/iching/recognition-clay-ink-r69/clay-watch-v1.png",
+      "bytes": 1251535,
+      "sha256": "2203f0bffcdf9ef09f3814a81d9c324f93d1da5908c312d46f4422514b4cab0c"
+    },
+    {
+      "path": "/assets/iching/recognition-clay-ink-r69/ink-answer-v1.png",
+      "bytes": 2663986,
+      "sha256": "c6d3295d6e9b597051f681222abe079c59f33f04659e008637e1ba86fad5fa7b"
+    },
+    {
+      "path": "/assets/iching/recognition-clay-ink-r69/ink-brand-v1.png",
+      "bytes": 1218383,
+      "sha256": "f650cee60c07adf9565c05b2ae7eb889c639773a284f69550027239dab329129"
+    },
+    {
+      "path": "/assets/iching/recognition-clay-ink-r69/ink-brush-stroke-v1.png",
+      "bytes": 306904,
+      "sha256": "db4ac189d79a5fc34a429c7a71cebb41dede9f85dab0487e3c1a12c4999b6ded"
+    },
+    {
+      "path": "/assets/iching/recognition-clay-ink-r69/ink-world-v1.png",
+      "bytes": 2587928,
+      "sha256": "9919f0eb77b1394b4c7baff685923fb8e16c0e09dc95a38be41e7c592fabda96"
+    },
+    {
       "path": "/assets/iching/recognition-dual-r68/cyber-answer-v1.png",
       "bytes": 1337911,
       "sha256": "c6099f27c56b4f52344e6e209cdbab28adb5915be821bd2946c607f880f241bb"
