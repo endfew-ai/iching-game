@@ -1527,6 +1527,56 @@
       "sha256": "9919f0eb77b1394b4c7baff685923fb8e16c0e09dc95a38be41e7c592fabda96"
     },
     {
+      "path": "/assets/iching/recognition-cloud-r70/brand-v1.png",
+      "bytes": 1686631,
+      "sha256": "8389f4ee68d02ba43393847f4e99743e38078e4aec046e0308df1306c6b558c8"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/chest-v1.png",
+      "bytes": 1352460,
+      "sha256": "62ee0256f6a4912fbd04a0cc13ebdf3aeecf6c2b09bf68d6032f28c0db8202a1"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/choice-lavender-v1.png",
+      "bytes": 1422626,
+      "sha256": "c6cefd36b82895ce429e26595c0f633c52c66eb0c7dd65b53ac404a411e039c4"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/choice-mint-v1.png",
+      "bytes": 1474563,
+      "sha256": "7168b26b1a3eb4faa1d3d59a76ae39dcfead719209d3228c2db2f8494e6dbe41"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/choice-pink-v1.png",
+      "bytes": 1462896,
+      "sha256": "21e4a85ab5f5f1ecf43ab6110604f83a11cefc4136a527d8bbeecc710fa94422"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/choice-yellow-v1.png",
+      "bytes": 1408125,
+      "sha256": "e754ba5d101b55a90baa6a209d08c0bd78623c89ee1ad584af9f060c80576fec"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/question-disc-v1.png",
+      "bytes": 1685449,
+      "sha256": "9626d21623daf483a9874e8d5f1bcbb8dc1d399611ea4f7991a7510a97311054"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/timer-v1.png",
+      "bytes": 1406058,
+      "sha256": "efd4a3c45aeff2e491a29b7fff6d050749d24d1f109f87d7b0c75b8dd3b2b7ba"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/title-v1.png",
+      "bytes": 1672088,
+      "sha256": "21d476f9abe6667fa05045738089677c904469b0a45a9259aebce4901278af86"
+    },
+    {
+      "path": "/assets/iching/recognition-cloud-r70/world-v1.png",
+      "bytes": 1838523,
+      "sha256": "a69c2f19c82fdda3bfb00af062b5b0e8b8b6f63d8fed28d2bedcef6034fe14c6"
+    },
+    {
       "path": "/assets/iching/recognition-dual-r68/cyber-answer-v1.png",
       "bytes": 1337911,
       "sha256": "c6099f27c56b4f52344e6e209cdbab28adb5915be821bd2946c607f880f241bb"
