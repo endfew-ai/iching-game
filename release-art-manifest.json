@@ -1487,6 +1487,41 @@
       "sha256": "2d81a3b174392c3667a17e54bb7ce8015a2b53c93e24b041de6dc4bc75be7a6b"
     },
     {
+      "path": "/assets/iching/recognition-cartoon-r71/answer-card-v1.png",
+      "bytes": 1731178,
+      "sha256": "daf4909c4aa193da9f35e8f8648d5569561822577c53a130f371ef4b3726f23b"
+    },
+    {
+      "path": "/assets/iching/recognition-cartoon-r71/brand-scroll-v1.png",
+      "bytes": 1906002,
+      "sha256": "6e88040ba1685921f8b09e36ed553476b527004bebea06e787c673b566b0db10"
+    },
+    {
+      "path": "/assets/iching/recognition-cartoon-r71/mascot-v1.png",
+      "bytes": 1658899,
+      "sha256": "b3e0ef0ad9b873448517743c8ad56d83b24365d00e3ce34ad2e2f82b86be5a55"
+    },
+    {
+      "path": "/assets/iching/recognition-cartoon-r71/mode-plaque-v1.png",
+      "bytes": 1623388,
+      "sha256": "ae1169025b756da09adf616237f78b3921f64c6de7be5259400035c3fa0237c7"
+    },
+    {
+      "path": "/assets/iching/recognition-cartoon-r71/question-oval-v1.png",
+      "bytes": 2270322,
+      "sha256": "be42bf69911ca6b4edfe82bc31b7531b604c10dd82b0981d6203db2113e74bf7"
+    },
+    {
+      "path": "/assets/iching/recognition-cartoon-r71/stopwatch-v1.png",
+      "bytes": 1701899,
+      "sha256": "bd888a359fd4de1b724e478a15ce6646adf99b22dfdef68ba75d64eeb995cb83"
+    },
+    {
+      "path": "/assets/iching/recognition-cartoon-r71/world-v1.png",
+      "bytes": 2961514,
+      "sha256": "42a40e225882e4399e472637288907966cbc2493b76605c1797cfe3df5985de0"
+    },
+    {
       "path": "/assets/iching/recognition-clay-ink-r69/clay-answer-v1.png",
       "bytes": 1870614,
       "sha256": "168e8680af779665fda83367d65649bf062ca310faa9120fab42494dc8638133"
