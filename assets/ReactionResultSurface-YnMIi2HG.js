@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-HhXx_-GX.js";import{$r as t}from"./index-BJt13Efr.js";var n=e();function r({tone:e}){return(0,n.jsx)(`img`,{alt:``,"aria-hidden":`true`,className:`reaction-result-surface`,decoding:`async`,draggable:`false`,fetchPriority:`low`,onError:e=>{e.currentTarget.hidden=!0},src:t.reactionResultSurfaces[e]})}export{r as t};

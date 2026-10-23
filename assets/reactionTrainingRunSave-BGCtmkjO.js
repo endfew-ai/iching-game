@@ -1,0 +1,1 @@
+import{Ut as e,Vt as t,qt as n}from"./index-BJt13Efr.js";function r(r){if(r.saved)return r.saved;let i=t();if(!i)return null;let a=n(i,r.update);return e(a)?(r.saved=a,a):null}export{r as t};

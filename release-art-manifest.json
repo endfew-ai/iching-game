@@ -1647,6 +1647,81 @@
       "sha256": "88f0c4f17c66966272dd866ff23a19b2f35df4e9ce792dd39a2ce466ca3fddb4"
     },
     {
+      "path": "/assets/iching/recognition-jelly-paper-r72/jelly-brand-v1.png",
+      "bytes": 1205997,
+      "sha256": "663a375605621536bcfab0108b8f6e4952352c24ed982d3cff426a0d00a9bf54"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/jelly-choice-blue-v1.png",
+      "bytes": 1617318,
+      "sha256": "e6a6bb8e34897f876008e7f2b9475ed1640ed5213cfad95bc881d84bda1b2507"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/jelly-choice-pink-v1.png",
+      "bytes": 1561025,
+      "sha256": "a0fe1947bb32f91c5cada0825c6b4d7af373f31c6980d43bd1442eb0fef7173c"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/jelly-choice-purple-v1.png",
+      "bytes": 1564984,
+      "sha256": "db454cb4cdf82bd8ba504ccb6ca9f0a63bb69d7be8e262f4ce8971d7b9e7a8ba"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/jelly-choice-yellow-v1.png",
+      "bytes": 1558661,
+      "sha256": "c4243c63aba37c87e3f81a4cc8f9a8a9c4cf288b4a2c05ac81754cc115e6298b"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/jelly-clock-v1.png",
+      "bytes": 1397313,
+      "sha256": "d19ea92794b857e3f37824554910f04fe7fde9bff042fd5475ddd3d6c03bd6bc"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/jelly-prompt-v1.png",
+      "bytes": 1590615,
+      "sha256": "0d2d4d41d0a016baf7bd1f4e26e50d44cef55abea29f3898481f00ca928c18ca"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/jelly-world-v1.png",
+      "bytes": 1628574,
+      "sha256": "c96a6de26d2d61991d5b8bb65444a133415b7a83f04f01cf90cff51152c60ce2"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/paper-brand-v1.png",
+      "bytes": 2300772,
+      "sha256": "13b1eb50381204419478620b4cd6aa1e7d25cf8611e1c98295768ea53840d8d4"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/paper-choice-red-v1.png",
+      "bytes": 2283433,
+      "sha256": "4c63c68086bb23d0a4cd9bd4058ddc1ff8a5923115d547400976def963efb4c3"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/paper-choice-teal-v1.png",
+      "bytes": 2123203,
+      "sha256": "d10b42136b5a1a6bdf0e47844cb969fb5a22626eaa70a94b907200459a58270d"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/paper-clock-v1.png",
+      "bytes": 1332996,
+      "sha256": "46c075ad405233fd24b81626fc4dfba3697c968fac48d9f6edd68beae422f337"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/paper-prompt-v1.png",
+      "bytes": 2563491,
+      "sha256": "2482fa63b6a999907b99755fd488027f753b703fb6928f4e52e74ce36b02f222"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/paper-title-v1.png",
+      "bytes": 1394738,
+      "sha256": "dc586c811a06054c404f3e00bbee0ebaf38559c1063d6e8d6dca327113f05c95"
+    },
+    {
+      "path": "/assets/iching/recognition-jelly-paper-r72/paper-world-v1.png",
+      "bytes": 2975318,
+      "sha256": "b129a2a11ade931f49f2e9104aa0c467529dc1b4a5b8ba6668074c87451f5f3f"
+    },
+    {
       "path": "/assets/learning/badges/review-book.png",
       "bytes": 496358,
       "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
