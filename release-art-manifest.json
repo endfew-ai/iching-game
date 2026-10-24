@@ -1722,6 +1722,51 @@
       "sha256": "b129a2a11ade931f49f2e9104aa0c467529dc1b4a5b8ba6668074c87451f5f3f"
     },
     {
+      "path": "/assets/iching/recognition-park-r73/brand-v1.png",
+      "bytes": 1546728,
+      "sha256": "cdb146df6ca46e3948f2933f0b002a2bc623187d3d01cba5d6b4eadafcc16076"
+    },
+    {
+      "path": "/assets/iching/recognition-park-r73/choice-coral-v1.png",
+      "bytes": 1523277,
+      "sha256": "7e1eb7bfb303a402aa663d698ac89c06d2aad437396dc6b85bf39464e8c6f7fd"
+    },
+    {
+      "path": "/assets/iching/recognition-park-r73/choice-cyan-v1.png",
+      "bytes": 1624302,
+      "sha256": "e952d20733b122e4d74888af6ba4ed79bb3637e28e2ec6b348c35e86ee378309"
+    },
+    {
+      "path": "/assets/iching/recognition-park-r73/choice-mint-v1.png",
+      "bytes": 1491608,
+      "sha256": "ff80e125c2b7117f71bceeedaa111fa788c5c00b31d872abe7323f10274f17be"
+    },
+    {
+      "path": "/assets/iching/recognition-park-r73/choice-yellow-v1.png",
+      "bytes": 1717793,
+      "sha256": "0c2232ae1e5cd87aaa1135913a2b6b43b4fb33d40644964337f833d3fbd378df"
+    },
+    {
+      "path": "/assets/iching/recognition-park-r73/clock-v1.png",
+      "bytes": 1289772,
+      "sha256": "bae3ed310adc1a5db9eb229d802273b1ea5700034ef4aec2603e72421ab016c6"
+    },
+    {
+      "path": "/assets/iching/recognition-park-r73/prompt-v1.png",
+      "bytes": 1620646,
+      "sha256": "8340cba2463c6219987a141208d5c9acd62739541bb36b9a7b5dc1cce7f1b5ef"
+    },
+    {
+      "path": "/assets/iching/recognition-park-r73/title-v1.png",
+      "bytes": 1105832,
+      "sha256": "3732f04a70dab5396ababe25f77cf114b9cac836343bd2bcadc817ee29e2d8fb"
+    },
+    {
+      "path": "/assets/iching/recognition-park-r73/world-v1.png",
+      "bytes": 2008990,
+      "sha256": "f14075b37e33223b5cf3c5744742831b30fbbf1d3da0450b8f79caf248baa6b9"
+    },
+    {
       "path": "/assets/learning/badges/review-book.png",
       "bytes": 496358,
       "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
