@@ -1297,6 +1297,31 @@
       "sha256": "51e241561bd93b91a0a07d3487b81bb7b88073222b6c434f3a9b5ab32bbfbf14"
     },
     {
+      "path": "/assets/iching/academy-premium-r75/battle-v1.webp",
+      "bytes": 346482,
+      "sha256": "507d1ac9dbe7b5fddd1cdcc566021eb99085444669beb1b9e884bdfa4a2b946d"
+    },
+    {
+      "path": "/assets/iching/academy-premium-r75/paper-landscape-v1.webp",
+      "bytes": 179188,
+      "sha256": "18bad67f91bc541ae295f9be86ec4f6df1cdfd2575db87f8f52fc5fb2ef709be"
+    },
+    {
+      "path": "/assets/iching/academy-premium-r75/study-v1.webp",
+      "bytes": 306602,
+      "sha256": "507e156c75d5b80b83221240d2d9969386cc1694d3d8ac7904fb32f7526c1ecf"
+    },
+    {
+      "path": "/assets/iching/academy-premium-r75/training-v1.webp",
+      "bytes": 271818,
+      "sha256": "53423b2fe4ee914be639b4e04ef2cd259d08182c04494a641e4724830bd421f4"
+    },
+    {
+      "path": "/assets/iching/academy-premium-r75/trial-v1.webp",
+      "bytes": 377672,
+      "sha256": "92d551eadf7702f8e4737011715c50c47ae8dd8f39c50c17c61bfcb22e5417eb"
+    },
+    {
       "path": "/assets/iching/academy-reference-r40/academy-valley-v1.webp",
       "bytes": 328390,
       "sha256": "edf8118bca61cb9deab5a0e4ee532b0b48fc186f92fb5a4503e11a9534f85e14"
