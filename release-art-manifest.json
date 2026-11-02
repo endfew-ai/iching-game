@@ -1107,6 +1107,16 @@
       "sha256": "a7b0be86b01c9401f974089c11e316cbc1357c248ea1d7199cb0e9369fa78ce2"
     },
     {
+      "path": "/assets/iching/academy-artifacts-r77/bagua-mount-v2.webp",
+      "bytes": 277450,
+      "sha256": "23dd82977410190c7d4753309d014b59e7136ef2eea03f2d87086d31163bcb24"
+    },
+    {
+      "path": "/assets/iching/academy-artifacts-r77/battle-mount-v2.webp",
+      "bytes": 134560,
+      "sha256": "e41dcde17ee940e642a58aea4bd8956e92f683c6440f0e7a59382a2862e426e7"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-bottom-navigation-states-v1.webp",
       "bytes": 60398,
       "sha256": "ff9035261a497876073c36a6921da3fbb759fad2fb74a88f88b7b2cf2fbb9477"
